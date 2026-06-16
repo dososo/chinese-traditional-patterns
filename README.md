@@ -69,6 +69,8 @@
 
 完整的浏览、检索、收藏、配色复制、原图下载体验，请访问 👉 **[wenyang.net](https://wenyang.net)**
 
+<img src="docs/screenshots/home.jpeg" width="820" alt="中国传统纹样图鉴 首页">
+
 | 图库一览 | 纹样详情 |
 |---|---|
 | <img src="docs/screenshots/gallery.jpeg" alt="图库"> | <img src="docs/screenshots/detail.jpeg" alt="详情页"> |

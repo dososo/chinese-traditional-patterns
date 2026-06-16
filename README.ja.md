@@ -69,6 +69,8 @@
 
 閲覧／検索／お気に入り／配色のコピー／原寸画像のダウンロードといったすべての体験は、ぜひこちらから 👉 **[wenyang.net](https://wenyang.net)**
 
+<img src="docs/screenshots/home.jpeg" width="820" alt="中国伝統紋様図鑑 ホームページ">
+
 | ギャラリー | 紋様の詳細 |
 |---|---|
 | <img src="docs/screenshots/gallery.jpeg" alt="Gallery"> | <img src="docs/screenshots/detail.jpeg" alt="Detail page"> |

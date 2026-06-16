@@ -69,6 +69,8 @@ Looking for traditional patterns usually means compromising — between the plas
 
 For the full browse / search / favorite / copy-palette / download-original experience, visit 👉 **[wenyang.net](https://wenyang.net)**
 
+<img src="docs/screenshots/home.jpeg" width="820" alt="Wényàng homepage">
+
 | Gallery | Pattern detail |
 |---|---|
 | <img src="docs/screenshots/gallery.jpeg" alt="Gallery"> | <img src="docs/screenshots/detail.jpeg" alt="Detail page"> |

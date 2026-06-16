@@ -69,6 +69,8 @@
 
 브라우징 / 검색 / 즐겨찾기 / 팔레트 복사 / 원본 다운로드까지 전체 경험을 누리려면 👉 **[wenyang.net](https://wenyang.net)** 을 방문하세요.
 
+<img src="docs/screenshots/home.jpeg" width="820" alt="중국 전통 문양 도감 홈페이지">
+
 | 갤러리 | 문양 상세 |
 |---|---|
 | <img src="docs/screenshots/gallery.jpeg" alt="Gallery"> | <img src="docs/screenshots/detail.jpeg" alt="Detail page"> |
