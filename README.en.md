@@ -256,6 +256,7 @@ Created and maintained solo by **BLCaptain (爆裂队长NEXT)**.
 - 🌐 Website: [wenyang.net](https://wenyang.net)
 - 💻 GitHub: [@dososo](https://github.com/dososo)
 - 🐦 X / Twitter: [@thinkszyg](https://x.com/thinkszyg)
+- ✉️ Email: [blteam2026@outlook.com](mailto:blteam2026@outlook.com)
 
 If this project helps you, a ⭐ Star, a share, or a hello on X is much appreciated.
 

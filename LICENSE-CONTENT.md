@@ -52,6 +52,7 @@ For commercial licensing, please contact the author:
 
 - GitHub: https://github.com/dososo
 - X / Twitter: https://x.com/thinkszyg
+- Email: blteam2026@outlook.com
 
 ---
 

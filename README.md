@@ -254,6 +254,7 @@ A：见 [参与共建](#-参与共建)，开 Issue / PR 或直接联系作者。
 - 🌐 网站：[wenyang.net](https://wenyang.net)
 - 💻 GitHub：[@dososo](https://github.com/dososo)
 - 🐦 X / Twitter：[@thinkszyg](https://x.com/thinkszyg)
+- ✉️ 邮箱：[blteam2026@outlook.com](mailto:blteam2026@outlook.com)
 
 如果这个项目对你有帮助，欢迎 ⭐ Star、分享，或在 X 上 @我交流。
 
