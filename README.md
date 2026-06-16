@@ -262,7 +262,9 @@ A：见 [参与共建](#-参与共建)，开 Issue / PR 或直接联系作者。
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dososo/chinese-traditional-patterns&type=Date)](https://star-history.com/#dososo/chinese-traditional-patterns&Date)
+[![GitHub Repo stars](https://img.shields.io/github/stars/dososo/chinese-traditional-patterns?style=social)](https://github.com/dososo/chinese-traditional-patterns/stargazers)
+
+> 📈 点击查看 **[实时 Star 趋势曲线 →](https://star-history.com/#dososo/chinese-traditional-patterns&Date)**
 
 ---
 

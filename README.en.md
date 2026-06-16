@@ -264,7 +264,9 @@ If this project helps you, a ⭐ Star, a share, or a hello on X is much apprecia
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dososo/chinese-traditional-patterns&type=Date)](https://star-history.com/#dososo/chinese-traditional-patterns&Date)
+[![GitHub Repo stars](https://img.shields.io/github/stars/dososo/chinese-traditional-patterns?style=social)](https://github.com/dososo/chinese-traditional-patterns/stargazers)
+
+> 📈 **[View the live Star History chart →](https://star-history.com/#dososo/chinese-traditional-patterns&Date)**
 
 ---
 
