@@ -1,0 +1,20 @@
+{
+  "id": "014",
+  "name_cn": "桃花纹",
+  "name_en": "Peach Blossom Pattern",
+  "category": "植物花卉纹",
+  "summary": "桃花纹轻盈明丽，适合表现春日与美好祝愿。",
+  "meaning": "生机、姻缘、美好",
+  "visual_keywords": [
+    "桃花",
+    "枝叶",
+    "粉色淡彩"
+  ],
+  "batch": "第02批_011-020_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/014_桃花纹/014_桃花纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/014_桃花纹/014_桃花纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/014_桃花纹/014_桃花纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "da8da9024f999092bc84aa46ac60e3da8810c356c5232662c6112371503b40d6",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

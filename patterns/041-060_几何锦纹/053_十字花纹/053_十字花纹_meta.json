@@ -1,0 +1,20 @@
+{
+  "id": "053",
+  "name_cn": "十字花纹",
+  "name_en": "Cross Floral Pattern",
+  "category": "几何锦纹",
+  "summary": "十字花纹由中心花形与四向结构构成，常见于织物装饰。",
+  "meaning": "四方、平衡、雅致",
+  "visual_keywords": [
+    "十字对称",
+    "小花",
+    "重复排列"
+  ],
+  "batch": "第06批_051-060_几何锦纹",
+  "card_image": "patterns/041-060_几何锦纹/053_十字花纹/053_十字花纹_卡片图.png",
+  "detail_page": "patterns/041-060_几何锦纹/053_十字花纹/053_十字花纹_详情页.md",
+  "meta_json": "patterns/041-060_几何锦纹/053_十字花纹/053_十字花纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "9fe4e745763a3394a9cf3801b80bac81c6730159fef8bb633f7a95b9bfb55b63",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

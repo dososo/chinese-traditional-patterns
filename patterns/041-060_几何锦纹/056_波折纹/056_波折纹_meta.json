@@ -1,0 +1,20 @@
+{
+  "id": "056",
+  "name_cn": "波折纹",
+  "name_en": "Zigzag Wave Pattern",
+  "category": "几何锦纹",
+  "summary": "波折纹由连续折线构成，可表现水势、边界和节奏。",
+  "meaning": "流动、变化、节奏",
+  "visual_keywords": [
+    "锯齿折线",
+    "水波感",
+    "边饰"
+  ],
+  "batch": "第06批_051-060_几何锦纹",
+  "card_image": "patterns/041-060_几何锦纹/056_波折纹/056_波折纹_卡片图.png",
+  "detail_page": "patterns/041-060_几何锦纹/056_波折纹/056_波折纹_详情页.md",
+  "meta_json": "patterns/041-060_几何锦纹/056_波折纹/056_波折纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "70f01897a3315fa4b59800e53036aee6995726854913d06dc0a630738a65b1f5",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

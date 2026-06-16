@@ -1,0 +1,19 @@
+{
+  "id": "052",
+  "name_cn": "锦地纹",
+  "name_en": "Brocade Ground Pattern",
+  "category": "几何锦纹",
+  "summary": "锦地纹常作为复杂纹样底纹，细密华丽。",
+  "meaning": "繁复、华美、秩序",
+  "visual_keywords": [
+    "细密几何底纹",
+    "低对比"
+  ],
+  "batch": "第06批_051-060_几何锦纹",
+  "card_image": "patterns/041-060_几何锦纹/052_锦地纹/052_锦地纹_卡片图.png",
+  "detail_page": "patterns/041-060_几何锦纹/052_锦地纹/052_锦地纹_详情页.md",
+  "meta_json": "patterns/041-060_几何锦纹/052_锦地纹/052_锦地纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "5f61cef044934264d242c58bac658a25e37b38580679094e9ed14cbc8c0f0878",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "089",
+  "name_cn": "扇面纹",
+  "name_en": "Fan Pattern",
+  "category": "吉祥器物纹",
+  "summary": "扇面纹结合折扇形态与花鸟装饰，具有文雅气质。",
+  "meaning": "清雅、生活美学、风雅",
+  "visual_keywords": [
+    "折扇",
+    "花鸟",
+    "扇骨"
+  ],
+  "batch": "第09批_081-090_吉祥器物纹",
+  "card_image": "patterns/076-090_吉祥器物纹/089_扇面纹/089_扇面纹_卡片图.png",
+  "detail_page": "patterns/076-090_吉祥器物纹/089_扇面纹/089_扇面纹_详情页.md",
+  "meta_json": "patterns/076-090_吉祥器物纹/089_扇面纹/089_扇面纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "2c2fd540ef9d07b27e6e4133db85a2e144e46b0b095a94a779414d1f82b51cc3",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

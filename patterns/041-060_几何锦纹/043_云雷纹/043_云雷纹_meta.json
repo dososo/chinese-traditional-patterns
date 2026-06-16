@@ -1,0 +1,20 @@
+{
+  "id": "043",
+  "name_cn": "云雷纹",
+  "name_en": "Cloud-Thunder Pattern",
+  "category": "几何锦纹",
+  "summary": "云雷纹融合云气与雷纹结构，常作为青铜器底纹。",
+  "meaning": "神秘、礼制、祥瑞",
+  "visual_keywords": [
+    "云形卷曲",
+    "雷纹底",
+    "青铜绿"
+  ],
+  "batch": "第05批_041-050_几何锦纹",
+  "card_image": "patterns/041-060_几何锦纹/043_云雷纹/043_云雷纹_卡片图.png",
+  "detail_page": "patterns/041-060_几何锦纹/043_云雷纹/043_云雷纹_详情页.md",
+  "meta_json": "patterns/041-060_几何锦纹/043_云雷纹/043_云雷纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "e3086cd7bdfe50fa7e062ffc760bff4a695bc9622dae5e1a7c826ad9154b8ba9",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

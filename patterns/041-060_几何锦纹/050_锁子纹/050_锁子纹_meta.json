@@ -1,0 +1,20 @@
+{
+  "id": "050",
+  "name_cn": "锁子纹",
+  "name_en": "Chainmail Pattern",
+  "category": "几何锦纹",
+  "summary": "锁子纹由环状结构连续相扣，装饰感强。",
+  "meaning": "连接、坚固、连续",
+  "visual_keywords": [
+    "环环相扣",
+    "金属感",
+    "连续排列"
+  ],
+  "batch": "第05批_041-050_几何锦纹",
+  "card_image": "patterns/041-060_几何锦纹/050_锁子纹/050_锁子纹_卡片图.png",
+  "detail_page": "patterns/041-060_几何锦纹/050_锁子纹/050_锁子纹_详情页.md",
+  "meta_json": "patterns/041-060_几何锦纹/050_锁子纹/050_锁子纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "2005f357bf76ec5c807d3e2d6041cd8510d03438fbb1a0463ef00d9bed672831",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

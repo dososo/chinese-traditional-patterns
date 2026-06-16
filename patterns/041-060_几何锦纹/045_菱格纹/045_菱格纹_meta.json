@@ -1,0 +1,20 @@
+{
+  "id": "045",
+  "name_cn": "菱格纹",
+  "name_en": "Diamond Lattice Pattern",
+  "category": "几何锦纹",
+  "summary": "菱格纹结构简洁明快，常用于织锦、陶瓷和建筑装饰。",
+  "meaning": "秩序、连绵、稳定",
+  "visual_keywords": [
+    "菱形网格",
+    "连续重复",
+    "淡绿"
+  ],
+  "batch": "第05批_041-050_几何锦纹",
+  "card_image": "patterns/041-060_几何锦纹/045_菱格纹/045_菱格纹_卡片图.png",
+  "detail_page": "patterns/041-060_几何锦纹/045_菱格纹/045_菱格纹_详情页.md",
+  "meta_json": "patterns/041-060_几何锦纹/045_菱格纹/045_菱格纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "2309b47e06ead645cde888d7cc14bbe0cc74e45c2ded1eec5e87faadd72dcbb1",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

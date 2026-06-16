@@ -1,0 +1,20 @@
+{
+  "id": "020",
+  "name_cn": "团花纹",
+  "name_en": "Medallion Floral Pattern",
+  "category": "植物花卉纹",
+  "summary": "团花纹以圆形花卉构成中心图案，结构完整饱满。",
+  "meaning": "圆满、和美、富丽",
+  "visual_keywords": [
+    "圆形团花",
+    "中心对称",
+    "花叶层叠"
+  ],
+  "batch": "第02批_011-020_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/020_团花纹/020_团花纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/020_团花纹/020_团花纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/020_团花纹/020_团花纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "b5fd3f284aea3de1d777bbeaf9c5cd36e22ba6e276e6806e9cc2a43f30c93e4e",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

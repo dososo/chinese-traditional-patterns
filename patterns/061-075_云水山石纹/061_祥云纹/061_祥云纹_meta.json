@@ -1,0 +1,20 @@
+{
+  "id": "061",
+  "name_cn": "祥云纹",
+  "name_en": "Auspicious Cloud Pattern",
+  "category": "云水山石纹",
+  "summary": "祥云纹是传统装饰中常见的吉祥纹样，线条圆润流动。",
+  "meaning": "祥瑞、升腾、美好征兆",
+  "visual_keywords": [
+    "卷曲云朵",
+    "柔和线条",
+    "青蓝"
+  ],
+  "batch": "第07批_061-070_云水山石纹",
+  "card_image": "patterns/061-075_云水山石纹/061_祥云纹/061_祥云纹_卡片图.png",
+  "detail_page": "patterns/061-075_云水山石纹/061_祥云纹/061_祥云纹_详情页.md",
+  "meta_json": "patterns/061-075_云水山石纹/061_祥云纹/061_祥云纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "1def082329a2284f928c25181885d315a2cf43b3b7afa7da59e73ad65ee96a3b",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "049",
+  "name_cn": "万字锦纹",
+  "name_en": "Wan Character Brocade Pattern",
+  "category": "几何锦纹",
+  "summary": "万字锦纹由传统吉祥符号连续组合，适合作为锦地背景。",
+  "meaning": "万福、绵长、繁盛",
+  "visual_keywords": [
+    "几何连续纹",
+    "传统吉祥",
+    "锦地"
+  ],
+  "batch": "第05批_041-050_几何锦纹",
+  "card_image": "patterns/041-060_几何锦纹/049_万字锦纹/049_万字锦纹_卡片图.png",
+  "detail_page": "patterns/041-060_几何锦纹/049_万字锦纹/049_万字锦纹_详情页.md",
+  "meta_json": "patterns/041-060_几何锦纹/049_万字锦纹/049_万字锦纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "4cf367669b7b8eab62f05481bbac620c03befb679ebdd6fadca7f45aede8a813",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

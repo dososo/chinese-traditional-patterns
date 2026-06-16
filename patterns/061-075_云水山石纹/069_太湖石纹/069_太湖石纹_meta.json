@@ -1,0 +1,21 @@
+{
+  "id": "069",
+  "name_cn": "太湖石纹",
+  "name_en": "Taihu Rock Pattern",
+  "category": "云水山石纹",
+  "summary": "太湖石纹以奇石轮廓和孔洞造型为特征，常见于园林审美。",
+  "meaning": "雅趣、文人气、自然奇巧",
+  "visual_keywords": [
+    "奇石",
+    "孔洞",
+    "墨线",
+    "淡彩"
+  ],
+  "batch": "第07批_061-070_云水山石纹",
+  "card_image": "patterns/061-075_云水山石纹/069_太湖石纹/069_太湖石纹_卡片图.png",
+  "detail_page": "patterns/061-075_云水山石纹/069_太湖石纹/069_太湖石纹_详情页.md",
+  "meta_json": "patterns/061-075_云水山石纹/069_太湖石纹/069_太湖石纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "f66979edd6e4fea6c5e29df1de4474e9aa715edbbff4b35c86edfbeeb136ba59",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

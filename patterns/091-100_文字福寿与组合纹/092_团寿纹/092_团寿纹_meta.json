@@ -1,0 +1,19 @@
+{
+  "id": "092",
+  "name_cn": "团寿纹",
+  "name_en": "Round Longevity Pattern",
+  "category": "文字福寿与组合纹",
+  "summary": "团寿纹将寿字置于圆形构图中，结构完整。",
+  "meaning": "圆满长寿、安康",
+  "visual_keywords": [
+    "圆形寿字",
+    "云纹环绕"
+  ],
+  "batch": "第10批_091-100_文字福寿与组合纹",
+  "card_image": "patterns/091-100_文字福寿与组合纹/092_团寿纹/092_团寿纹_卡片图.png",
+  "detail_page": "patterns/091-100_文字福寿与组合纹/092_团寿纹/092_团寿纹_详情页.md",
+  "meta_json": "patterns/091-100_文字福寿与组合纹/092_团寿纹/092_团寿纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "22cc1b5a0fda7b52366432a6000d17a06d6a74eed50aa5010dfb3cfe4d2d6010",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

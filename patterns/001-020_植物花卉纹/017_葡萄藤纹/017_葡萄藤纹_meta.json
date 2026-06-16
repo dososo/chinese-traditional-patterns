@@ -1,0 +1,20 @@
+{
+  "id": "017",
+  "name_cn": "葡萄藤纹",
+  "name_en": "Grape Vine Pattern",
+  "category": "植物花卉纹",
+  "summary": "葡萄藤蔓枝叶繁密，果实成串，适合丰收主题纹样。",
+  "meaning": "丰收、多子、繁盛",
+  "visual_keywords": [
+    "葡萄串",
+    "藤蔓",
+    "叶片缠绕"
+  ],
+  "batch": "第02批_011-020_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/017_葡萄藤纹/017_葡萄藤纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/017_葡萄藤纹/017_葡萄藤纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/017_葡萄藤纹/017_葡萄藤纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "b99629ded0333c383ee14a7149755aff1d0fb93992acf3e1ad73992238f0f9b9",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

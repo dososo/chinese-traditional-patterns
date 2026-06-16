@@ -1,0 +1,21 @@
+{
+  "id": "032",
+  "name_cn": "鹿纹",
+  "name_en": "Deer Pattern",
+  "category": "动物瑞兽纹",
+  "summary": "鹿与“禄”谐音，常与松、鹤、灵芝等元素组合。",
+  "meaning": "俸禄、祥瑞、长寿",
+  "visual_keywords": [
+    "梅花鹿",
+    "灵芝",
+    "松树",
+    "山石"
+  ],
+  "batch": "第04批_031-040_动物瑞兽纹",
+  "card_image": "patterns/021-040_动物瑞兽纹/032_鹿纹/032_鹿纹_卡片图.png",
+  "detail_page": "patterns/021-040_动物瑞兽纹/032_鹿纹/032_鹿纹_详情页.md",
+  "meta_json": "patterns/021-040_动物瑞兽纹/032_鹿纹/032_鹿纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "eba72f8eba7f66f92e05443581fbb34eae643a0eeed8f81e708c6074bc868884",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

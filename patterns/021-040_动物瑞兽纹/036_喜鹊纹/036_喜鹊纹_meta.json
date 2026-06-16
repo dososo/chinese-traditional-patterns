@@ -1,0 +1,20 @@
+{
+  "id": "036",
+  "name_cn": "喜鹊纹",
+  "name_en": "Magpie Pattern",
+  "category": "动物瑞兽纹",
+  "summary": "喜鹊纹常与梅花组合，形成喜上眉梢的吉祥意象。",
+  "meaning": "喜事临门、吉庆",
+  "visual_keywords": [
+    "喜鹊",
+    "梅枝",
+    "花苞"
+  ],
+  "batch": "第04批_031-040_动物瑞兽纹",
+  "card_image": "patterns/021-040_动物瑞兽纹/036_喜鹊纹/036_喜鹊纹_卡片图.png",
+  "detail_page": "patterns/021-040_动物瑞兽纹/036_喜鹊纹/036_喜鹊纹_详情页.md",
+  "meta_json": "patterns/021-040_动物瑞兽纹/036_喜鹊纹/036_喜鹊纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "7df072418cb812816a6df5df29af2eeb027b96da416e2332a3f61ea3661bf598",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

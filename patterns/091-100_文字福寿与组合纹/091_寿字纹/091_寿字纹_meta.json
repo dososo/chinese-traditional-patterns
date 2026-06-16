@@ -1,0 +1,20 @@
+{
+  "id": "091",
+  "name_cn": "寿字纹",
+  "name_en": "Longevity Character Pattern",
+  "category": "文字福寿与组合纹",
+  "summary": "寿字纹以“寿”字变体构成装饰，常见于祝寿器物与织绣。",
+  "meaning": "长寿安康、福泽绵长",
+  "visual_keywords": [
+    "篆体寿字",
+    "圆形团寿",
+    "边饰"
+  ],
+  "batch": "第10批_091-100_文字福寿与组合纹",
+  "card_image": "patterns/091-100_文字福寿与组合纹/091_寿字纹/091_寿字纹_卡片图.png",
+  "detail_page": "patterns/091-100_文字福寿与组合纹/091_寿字纹/091_寿字纹_详情页.md",
+  "meta_json": "patterns/091-100_文字福寿与组合纹/091_寿字纹/091_寿字纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "139927a957017cb63b19fe27418ecd04a5de8e639c896c78528702363a08d9e2",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

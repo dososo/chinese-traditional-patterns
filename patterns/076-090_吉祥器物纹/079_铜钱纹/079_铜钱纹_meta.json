@@ -1,0 +1,20 @@
+{
+  "id": "079",
+  "name_cn": "铜钱纹",
+  "name_en": "Coin Pattern",
+  "category": "吉祥器物纹",
+  "summary": "铜钱纹以外圆内方为基本形，适合连续纹和底纹设计。",
+  "meaning": "财富、秩序、福运",
+  "visual_keywords": [
+    "方孔钱",
+    "连续排列",
+    "古铜色"
+  ],
+  "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+  "card_image": "patterns/076-090_吉祥器物纹/079_铜钱纹/079_铜钱纹_卡片图.png",
+  "detail_page": "patterns/076-090_吉祥器物纹/079_铜钱纹/079_铜钱纹_详情页.md",
+  "meta_json": "patterns/076-090_吉祥器物纹/079_铜钱纹/079_铜钱纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "73a809ddf33bdf1695ac45e6debe4cfdb93f818ec99d3d44ffc5bf5f5ed5bd19",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

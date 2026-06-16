@@ -1,0 +1,21 @@
+{
+  "id": "026",
+  "name_cn": "麒麟纹",
+  "name_en": "Qilin Pattern",
+  "category": "动物瑞兽纹",
+  "summary": "麒麟是传统瑞兽，常用于建筑、织绣与器物装饰。",
+  "meaning": "仁德、太平、吉祥",
+  "visual_keywords": [
+    "麒麟",
+    "火焰云",
+    "鳞甲",
+    "祥瑞感"
+  ],
+  "batch": "第03批_021-030_动物瑞兽纹",
+  "card_image": "patterns/021-040_动物瑞兽纹/026_麒麟纹/026_麒麟纹_卡片图.png",
+  "detail_page": "patterns/021-040_动物瑞兽纹/026_麒麟纹/026_麒麟纹_详情页.md",
+  "meta_json": "patterns/021-040_动物瑞兽纹/026_麒麟纹/026_麒麟纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "ab8efdd90eb379596a1f98286ad52741e019a7efa29239fa80484f398543703f",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

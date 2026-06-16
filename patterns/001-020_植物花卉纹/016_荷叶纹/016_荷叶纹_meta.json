@@ -1,0 +1,20 @@
+{
+  "id": "016",
+  "name_cn": "荷叶纹",
+  "name_en": "Lotus Leaf Pattern",
+  "category": "植物花卉纹",
+  "summary": "荷叶纹常与莲花组合出现，叶片舒展，具有自然意象。",
+  "meaning": "清净、自然、舒展",
+  "visual_keywords": [
+    "大荷叶",
+    "莲茎",
+    "水面留白"
+  ],
+  "batch": "第02批_011-020_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/016_荷叶纹/016_荷叶纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/016_荷叶纹/016_荷叶纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/016_荷叶纹/016_荷叶纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "c3bc982178c60b8ef5077db201ec70f53c3e81cd4e497721da4d106dccd53285",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "055",
+  "name_cn": "八角星纹",
+  "name_en": "Eight-Point Star Pattern",
+  "category": "几何锦纹",
+  "summary": "八角星纹具有放射状结构，视觉稳定醒目。",
+  "meaning": "光明、秩序、中心感",
+  "visual_keywords": [
+    "八角星",
+    "中心放射",
+    "对称"
+  ],
+  "batch": "第06批_051-060_几何锦纹",
+  "card_image": "patterns/041-060_几何锦纹/055_八角星纹/055_八角星纹_卡片图.png",
+  "detail_page": "patterns/041-060_几何锦纹/055_八角星纹/055_八角星纹_详情页.md",
+  "meta_json": "patterns/041-060_几何锦纹/055_八角星纹/055_八角星纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "2bd23bd7c67fa1d03cd7769a89c06505255e2da7581f6f5a02899f195eb7517b",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

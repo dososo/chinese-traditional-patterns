@@ -1,0 +1,20 @@
+{
+  "id": "093",
+  "name_cn": "福字纹",
+  "name_en": "Fortune Character Pattern",
+  "category": "文字福寿与组合纹",
+  "summary": "福字纹以“福”字装饰化展开，常用于年节与家宅装饰。",
+  "meaning": "幸福、福气、家宅安宁",
+  "visual_keywords": [
+    "篆体福字",
+    "祥云",
+    "朱砂"
+  ],
+  "batch": "第10批_091-100_文字福寿与组合纹",
+  "card_image": "patterns/091-100_文字福寿与组合纹/093_福字纹/093_福字纹_卡片图.png",
+  "detail_page": "patterns/091-100_文字福寿与组合纹/093_福字纹/093_福字纹_详情页.md",
+  "meta_json": "patterns/091-100_文字福寿与组合纹/093_福字纹/093_福字纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "be54c028cfc5e8994af8d7cbbec39adac25e18d442b4c2b2e7894a515112a6cb",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

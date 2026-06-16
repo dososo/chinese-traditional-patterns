@@ -1,0 +1,20 @@
+{
+  "id": "023",
+  "name_cn": "螭龙纹",
+  "name_en": "Chi Dragon Pattern",
+  "category": "动物瑞兽纹",
+  "summary": "螭龙纹常见于玉器、建筑和家具装饰，形态盘曲灵动。",
+  "meaning": "守护、祥瑞、灵动",
+  "visual_keywords": [
+    "盘曲小龙",
+    "卷尾",
+    "玉雕感"
+  ],
+  "batch": "第03批_021-030_动物瑞兽纹",
+  "card_image": "patterns/021-040_动物瑞兽纹/023_螭龙纹/023_螭龙纹_卡片图.png",
+  "detail_page": "patterns/021-040_动物瑞兽纹/023_螭龙纹/023_螭龙纹_详情页.md",
+  "meta_json": "patterns/021-040_动物瑞兽纹/023_螭龙纹/023_螭龙纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "1788b183609f7117b5022b127f429c9a1b1e2cd66fbce3ff86813dc6b92c095f",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

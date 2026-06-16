@@ -1,0 +1,20 @@
+{
+  "id": "066",
+  "name_cn": "浪花纹",
+  "name_en": "Spray Wave Pattern",
+  "category": "云水山石纹",
+  "summary": "浪花纹比水波纹更具动感，适合海涛、江河和龙鱼主题。",
+  "meaning": "活力、流动、奋进",
+  "visual_keywords": [
+    "飞溅浪花",
+    "曲线",
+    "蓝白"
+  ],
+  "batch": "第07批_061-070_云水山石纹",
+  "card_image": "patterns/061-075_云水山石纹/066_浪花纹/066_浪花纹_卡片图.png",
+  "detail_page": "patterns/061-075_云水山石纹/066_浪花纹/066_浪花纹_详情页.md",
+  "meta_json": "patterns/061-075_云水山石纹/066_浪花纹/066_浪花纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "e5220b387c464a75e3b2058bc10105bf91fd7ad20836426ac409115b12161be9",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

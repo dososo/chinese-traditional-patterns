@@ -1,0 +1,20 @@
+{
+  "id": "072",
+  "name_cn": "云气纹",
+  "name_en": "Cloud Vapor Pattern",
+  "category": "云水山石纹",
+  "summary": "云气纹更抽象，常以卷曲气流构成，适合作为辅助底纹。",
+  "meaning": "升腾、灵动、气韵",
+  "visual_keywords": [
+    "抽象气流",
+    "淡墨",
+    "低密度"
+  ],
+  "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+  "card_image": "patterns/061-075_云水山石纹/072_云气纹/072_云气纹_卡片图.png",
+  "detail_page": "patterns/061-075_云水山石纹/072_云气纹/072_云气纹_详情页.md",
+  "meta_json": "patterns/061-075_云水山石纹/072_云气纹/072_云气纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "900ec941044d0a96bd26a13247a13b6d924e24ba9f046fd4a22d5280c930d89d",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

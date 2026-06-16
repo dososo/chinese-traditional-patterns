@@ -1,0 +1,20 @@
+{
+  "id": "022",
+  "name_cn": "夔龙纹",
+  "name_en": "Kui Dragon Pattern",
+  "category": "动物瑞兽纹",
+  "summary": "夔龙纹多见于青铜器装饰，形体抽象古拙。",
+  "meaning": "礼制、威严、古朴",
+  "visual_keywords": [
+    "单足龙形",
+    "青铜感",
+    "几何化"
+  ],
+  "batch": "第03批_021-030_动物瑞兽纹",
+  "card_image": "patterns/021-040_动物瑞兽纹/022_夔龙纹/022_夔龙纹_卡片图.png",
+  "detail_page": "patterns/021-040_动物瑞兽纹/022_夔龙纹/022_夔龙纹_详情页.md",
+  "meta_json": "patterns/021-040_动物瑞兽纹/022_夔龙纹/022_夔龙纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "73e2652629634b167fe6c7ae418705f6c7a708c6d2bb26210882245d2494a2a7",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

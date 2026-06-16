@@ -1,0 +1,21 @@
+{
+  "id": "068",
+  "name_cn": "山水纹",
+  "name_en": "Landscape Pattern",
+  "category": "云水山石纹",
+  "summary": "山水纹将山、云、水组合成装饰图案，具有东方空间感。",
+  "meaning": "清雅、自然、文人意境",
+  "visual_keywords": [
+    "远山",
+    "流水",
+    "云雾",
+    "留白"
+  ],
+  "batch": "第07批_061-070_云水山石纹",
+  "card_image": "patterns/061-075_云水山石纹/068_山水纹/068_山水纹_卡片图.png",
+  "detail_page": "patterns/061-075_云水山石纹/068_山水纹/068_山水纹_详情页.md",
+  "meta_json": "patterns/061-075_云水山石纹/068_山水纹/068_山水纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "304970725d594bf7bb7b60fc97b4ea4cc555488bba8f644d97c9ec840c6b9163",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

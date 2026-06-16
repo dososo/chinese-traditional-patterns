@@ -1,0 +1,20 @@
+{
+  "id": "076",
+  "name_cn": "如意纹",
+  "name_en": "Ruyi Pattern",
+  "category": "吉祥器物纹",
+  "summary": "如意纹由如意头造型发展而来，常见于边饰与器物装饰。",
+  "meaning": "顺遂、称心、吉祥",
+  "visual_keywords": [
+    "如意头",
+    "卷草",
+    "对称边饰"
+  ],
+  "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+  "card_image": "patterns/076-090_吉祥器物纹/076_如意纹/076_如意纹_卡片图.png",
+  "detail_page": "patterns/076-090_吉祥器物纹/076_如意纹/076_如意纹_详情页.md",
+  "meta_json": "patterns/076-090_吉祥器物纹/076_如意纹/076_如意纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "be7e54fc217dcf66297bc3912d9d57b51a7624a57cd77a7b53e9e09a34a10143",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

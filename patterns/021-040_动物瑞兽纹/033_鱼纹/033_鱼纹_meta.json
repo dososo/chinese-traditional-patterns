@@ -1,0 +1,21 @@
+{
+  "id": "033",
+  "name_cn": "鱼纹",
+  "name_en": "Fish Pattern",
+  "category": "动物瑞兽纹",
+  "summary": "鱼纹常见于瓷器、民俗年画和织物装饰。",
+  "meaning": "年年有余、丰足、繁盛",
+  "visual_keywords": [
+    "双鱼",
+    "水波",
+    "莲花",
+    "圆形"
+  ],
+  "batch": "第04批_031-040_动物瑞兽纹",
+  "card_image": "patterns/021-040_动物瑞兽纹/033_鱼纹/033_鱼纹_卡片图.png",
+  "detail_page": "patterns/021-040_动物瑞兽纹/033_鱼纹/033_鱼纹_详情页.md",
+  "meta_json": "patterns/021-040_动物瑞兽纹/033_鱼纹/033_鱼纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "a18b11aaa8ddc1c95a38bfe38d213d8672ce4e2de8be6efacf1a1eb5255d181e",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

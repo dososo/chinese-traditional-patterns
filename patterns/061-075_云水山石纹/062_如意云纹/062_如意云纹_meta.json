@@ -1,0 +1,20 @@
+{
+  "id": "062",
+  "name_cn": "如意云纹",
+  "name_en": "Ruyi Cloud Pattern",
+  "category": "云水山石纹",
+  "summary": "如意云纹结合云形与如意头造型，常用于器物和织物装饰。",
+  "meaning": "称心如意、吉祥圆满",
+  "visual_keywords": [
+    "如意头",
+    "云气卷曲",
+    "对称"
+  ],
+  "batch": "第07批_061-070_云水山石纹",
+  "card_image": "patterns/061-075_云水山石纹/062_如意云纹/062_如意云纹_卡片图.png",
+  "detail_page": "patterns/061-075_云水山石纹/062_如意云纹/062_如意云纹_详情页.md",
+  "meta_json": "patterns/061-075_云水山石纹/062_如意云纹/062_如意云纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "78d4ed845b8e1794dacb5817fb917d416716eaa38a141c71e7435ec6c3166954",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

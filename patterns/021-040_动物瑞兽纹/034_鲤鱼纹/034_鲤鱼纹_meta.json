@@ -1,0 +1,20 @@
+{
+  "id": "034",
+  "name_cn": "鲤鱼纹",
+  "name_en": "Carp Pattern",
+  "category": "动物瑞兽纹",
+  "summary": "鲤鱼纹常与跃水、龙门意象相关，具有进取意味。",
+  "meaning": "奋进、顺达、富足",
+  "visual_keywords": [
+    "鲤鱼跃浪",
+    "水花",
+    "云纹"
+  ],
+  "batch": "第04批_031-040_动物瑞兽纹",
+  "card_image": "patterns/021-040_动物瑞兽纹/034_鲤鱼纹/034_鲤鱼纹_卡片图.png",
+  "detail_page": "patterns/021-040_动物瑞兽纹/034_鲤鱼纹/034_鲤鱼纹_详情页.md",
+  "meta_json": "patterns/021-040_动物瑞兽纹/034_鲤鱼纹/034_鲤鱼纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "4f911f4989d73639ec15de1167406fda15f097ba2823bc519d5c5d69cba007de",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

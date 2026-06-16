@@ -1,0 +1,20 @@
+{
+  "id": "013",
+  "name_cn": "松针纹",
+  "name_en": "Pine Needle Pattern",
+  "category": "植物花卉纹",
+  "summary": "松针纹可用于表现古朴、沉稳、清雅的视觉氛围。",
+  "meaning": "长寿、坚贞、稳重",
+  "visual_keywords": [
+    "松枝松针",
+    "墨绿",
+    "古雅构图"
+  ],
+  "batch": "第02批_011-020_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/013_松针纹/013_松针纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/013_松针纹/013_松针纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/013_松针纹/013_松针纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "2cc428e7bc1984c5f61bc4cdfc1825fbcce157cd12e4af824cc0581c581cc5ae",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

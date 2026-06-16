@@ -1,0 +1,19 @@
+{
+  "id": "071",
+  "name_cn": "流云纹",
+  "name_en": "Flowing Cloud Pattern",
+  "category": "云水山石纹",
+  "summary": "流云纹强调长线条的飘动感，适合表现轻盈和仙气。",
+  "meaning": "飘逸、自由、祥和",
+  "visual_keywords": [
+    "横向流动云带",
+    "柔线"
+  ],
+  "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+  "card_image": "patterns/061-075_云水山石纹/071_流云纹/071_流云纹_卡片图.png",
+  "detail_page": "patterns/061-075_云水山石纹/071_流云纹/071_流云纹_详情页.md",
+  "meta_json": "patterns/061-075_云水山石纹/071_流云纹/071_流云纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "a936ae186e46388609be7a53e7547f62303cb5bf078c5fbefaa72468cdb62551",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

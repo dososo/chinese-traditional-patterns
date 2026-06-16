@@ -1,0 +1,20 @@
+{
+  "id": "030",
+  "name_cn": "蝙蝠纹",
+  "name_en": "Bat Pattern",
+  "category": "动物瑞兽纹",
+  "summary": "蝙蝠因“蝠”谐音“福”，常用于吉祥图案。",
+  "meaning": "福气、好运、吉祥",
+  "visual_keywords": [
+    "五只蝙蝠",
+    "祥云",
+    "圆形构图"
+  ],
+  "batch": "第03批_021-030_动物瑞兽纹",
+  "card_image": "patterns/021-040_动物瑞兽纹/030_蝙蝠纹/030_蝙蝠纹_卡片图.png",
+  "detail_page": "patterns/021-040_动物瑞兽纹/030_蝙蝠纹/030_蝙蝠纹_详情页.md",
+  "meta_json": "patterns/021-040_动物瑞兽纹/030_蝙蝠纹/030_蝙蝠纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "c07f4861fa5d0fc34e2b99b248f874d1c4221c62dca15860096695c350d05b02",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

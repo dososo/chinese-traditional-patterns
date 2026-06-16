@@ -1,0 +1,21 @@
+{
+  "id": "037",
+  "name_cn": "马纹",
+  "name_en": "Horse Pattern",
+  "category": "动物瑞兽纹",
+  "summary": "马纹表现速度、力量与进取精神，常见于壁画、器物与民俗装饰。",
+  "meaning": "奔腾、力量、进取",
+  "visual_keywords": [
+    "奔马",
+    "飘带",
+    "云气",
+    "动感"
+  ],
+  "batch": "第04批_031-040_动物瑞兽纹",
+  "card_image": "patterns/021-040_动物瑞兽纹/037_马纹/037_马纹_卡片图.png",
+  "detail_page": "patterns/021-040_动物瑞兽纹/037_马纹/037_马纹_详情页.md",
+  "meta_json": "patterns/021-040_动物瑞兽纹/037_马纹/037_马纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "9d3f2169a9c2749b551c33437a127f2d890b1b7c405f8338bb396153d58de7a0",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

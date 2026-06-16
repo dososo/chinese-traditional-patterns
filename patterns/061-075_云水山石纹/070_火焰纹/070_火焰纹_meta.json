@@ -1,0 +1,19 @@
+{
+  "id": "070",
+  "name_cn": "火焰纹",
+  "name_en": "Flame Pattern",
+  "category": "云水山石纹",
+  "summary": "火焰纹常用于佛教、瑞兽和法器装饰，线条上扬有力量感。",
+  "meaning": "神圣、能量、护佑",
+  "visual_keywords": [
+    "火焰尖卷",
+    "朱砂金线"
+  ],
+  "batch": "第07批_061-070_云水山石纹",
+  "card_image": "patterns/061-075_云水山石纹/070_火焰纹/070_火焰纹_卡片图.png",
+  "detail_page": "patterns/061-075_云水山石纹/070_火焰纹/070_火焰纹_详情页.md",
+  "meta_json": "patterns/061-075_云水山石纹/070_火焰纹/070_火焰纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "1b3e934537c11e933ddf2add994b4cdd0d5979059413f91599846d1fd610a74f",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "085",
+  "name_cn": "书卷纹",
+  "name_en": "Scroll Pattern",
+  "category": "吉祥器物纹",
+  "summary": "书卷纹常与文运、学识、雅趣相关，适合文房主题。",
+  "meaning": "学识、文运、雅趣",
+  "visual_keywords": [
+    "卷轴",
+    "书册",
+    "云纹"
+  ],
+  "batch": "第09批_081-090_吉祥器物纹",
+  "card_image": "patterns/076-090_吉祥器物纹/085_书卷纹/085_书卷纹_卡片图.png",
+  "detail_page": "patterns/076-090_吉祥器物纹/085_书卷纹/085_书卷纹_详情页.md",
+  "meta_json": "patterns/076-090_吉祥器物纹/085_书卷纹/085_书卷纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "6ac10a9c650e118ad51ca6a10a3545081230c3d033a15e68a5023fb1f333f849",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

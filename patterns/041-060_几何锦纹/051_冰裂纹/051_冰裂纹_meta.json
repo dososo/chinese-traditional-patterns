@@ -1,0 +1,19 @@
+{
+  "id": "051",
+  "name_cn": "冰裂纹",
+  "name_en": "Crackle Ice Pattern",
+  "category": "几何锦纹",
+  "summary": "冰裂纹形似自然冰面裂纹，常见于瓷器和窗格。",
+  "meaning": "雅致、清冷、自然变化",
+  "visual_keywords": [
+    "不规则裂线",
+    "蓝白瓷感"
+  ],
+  "batch": "第06批_051-060_几何锦纹",
+  "card_image": "patterns/041-060_几何锦纹/051_冰裂纹/051_冰裂纹_卡片图.png",
+  "detail_page": "patterns/041-060_几何锦纹/051_冰裂纹/051_冰裂纹_详情页.md",
+  "meta_json": "patterns/041-060_几何锦纹/051_冰裂纹/051_冰裂纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "2610bd1cec3af64425feb63e12105032444bff7b02418667977c8587e9e65e26",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

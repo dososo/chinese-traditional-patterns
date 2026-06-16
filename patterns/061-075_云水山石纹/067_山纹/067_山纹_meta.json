@@ -1,0 +1,20 @@
+{
+  "id": "067",
+  "name_cn": "山纹",
+  "name_en": "Mountain Pattern",
+  "category": "云水山石纹",
+  "summary": "山纹以层叠山形构成，视觉稳重，适合底纹或主视觉。",
+  "meaning": "稳固、崇高、自然秩序",
+  "visual_keywords": [
+    "层叠山峰",
+    "几何化",
+    "墨青"
+  ],
+  "batch": "第07批_061-070_云水山石纹",
+  "card_image": "patterns/061-075_云水山石纹/067_山纹/067_山纹_卡片图.png",
+  "detail_page": "patterns/061-075_云水山石纹/067_山纹/067_山纹_详情页.md",
+  "meta_json": "patterns/061-075_云水山石纹/067_山纹/067_山纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "70be6a881bc02b2f00d33d7d439a6f2c506b8785e72a38eeae3e0f899a937c6e",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "081",
+  "name_cn": "八宝纹",
+  "name_en": "Eight Treasures Pattern",
+  "category": "吉祥器物纹",
+  "summary": "八宝纹由多种吉祥器物组合而成，常见于瓷器和织物。",
+  "meaning": "吉祥、护佑、圆满",
+  "visual_keywords": [
+    "八件宝物",
+    "环形排列"
+  ],
+  "batch": "第09批_081-090_吉祥器物纹",
+  "card_image": "patterns/076-090_吉祥器物纹/081_八宝纹/081_八宝纹_卡片图.png",
+  "detail_page": "patterns/076-090_吉祥器物纹/081_八宝纹/081_八宝纹_详情页.md",
+  "meta_json": "patterns/076-090_吉祥器物纹/081_八宝纹/081_八宝纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "59719aa36bde30674fd85028bf7e740f22856b615b5711dc68fc91e980b94552",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

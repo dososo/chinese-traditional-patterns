@@ -1,0 +1,20 @@
+{
+  "id": "074",
+  "name_cn": "雨点纹",
+  "name_en": "Raindrop Pattern",
+  "category": "云水山石纹",
+  "summary": "雨点纹以点状或泪滴状连续分布，视觉轻巧。",
+  "meaning": "润泽、自然、清新",
+  "visual_keywords": [
+    "小雨滴",
+    "规律排列",
+    "淡蓝"
+  ],
+  "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+  "card_image": "patterns/061-075_云水山石纹/074_雨点纹/074_雨点纹_卡片图.png",
+  "detail_page": "patterns/061-075_云水山石纹/074_雨点纹/074_雨点纹_详情页.md",
+  "meta_json": "patterns/061-075_云水山石纹/074_雨点纹/074_雨点纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "e207302db25403daef9b1e6db98bb65e94fe02d05abe2cce01e8c59a6e9b94b3",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

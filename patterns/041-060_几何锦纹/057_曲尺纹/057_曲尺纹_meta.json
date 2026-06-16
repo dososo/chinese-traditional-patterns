@@ -1,0 +1,20 @@
+{
+  "id": "057",
+  "name_cn": "曲尺纹",
+  "name_en": "Angular Meander Pattern",
+  "category": "几何锦纹",
+  "summary": "曲尺纹以直角转折形成连续路径，风格理性规整。",
+  "meaning": "规矩、秩序、延续",
+  "visual_keywords": [
+    "直角转折",
+    "边框",
+    "墨黑"
+  ],
+  "batch": "第06批_051-060_几何锦纹",
+  "card_image": "patterns/041-060_几何锦纹/057_曲尺纹/057_曲尺纹_卡片图.png",
+  "detail_page": "patterns/041-060_几何锦纹/057_曲尺纹/057_曲尺纹_详情页.md",
+  "meta_json": "patterns/041-060_几何锦纹/057_曲尺纹/057_曲尺纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "419c649392d67dbfa336fedf1d9b3b0bdb7c409b2eb7f3a793e806cc587d58f0",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

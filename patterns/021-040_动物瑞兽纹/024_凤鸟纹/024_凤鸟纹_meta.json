@@ -1,0 +1,21 @@
+{
+  "id": "024",
+  "name_cn": "凤鸟纹",
+  "name_en": "Phoenix Pattern",
+  "category": "动物瑞兽纹",
+  "summary": "凤鸟纹常与花卉、云纹组合，视觉华丽优雅。",
+  "meaning": "祥瑞、高贵、和美",
+  "visual_keywords": [
+    "凤凰",
+    "羽尾",
+    "祥云",
+    "朱砂鎏金"
+  ],
+  "batch": "第03批_021-030_动物瑞兽纹",
+  "card_image": "patterns/021-040_动物瑞兽纹/024_凤鸟纹/024_凤鸟纹_卡片图.png",
+  "detail_page": "patterns/021-040_动物瑞兽纹/024_凤鸟纹/024_凤鸟纹_详情页.md",
+  "meta_json": "patterns/021-040_动物瑞兽纹/024_凤鸟纹/024_凤鸟纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "95718f92e39295a68128aae2d82191e4b1525b46b21f372182523be2fbaac9d8",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

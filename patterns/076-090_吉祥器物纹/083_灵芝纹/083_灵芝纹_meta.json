@@ -1,0 +1,20 @@
+{
+  "id": "083",
+  "name_cn": "灵芝纹",
+  "name_en": "Lingzhi Pattern",
+  "category": "吉祥器物纹",
+  "summary": "灵芝纹形态柔曲，常与云纹组合成祥瑞图案。",
+  "meaning": "长寿、祥瑞、仙草意象",
+  "visual_keywords": [
+    "灵芝",
+    "祥云",
+    "卷曲菌盖"
+  ],
+  "batch": "第09批_081-090_吉祥器物纹",
+  "card_image": "patterns/076-090_吉祥器物纹/083_灵芝纹/083_灵芝纹_卡片图.png",
+  "detail_page": "patterns/076-090_吉祥器物纹/083_灵芝纹/083_灵芝纹_详情页.md",
+  "meta_json": "patterns/076-090_吉祥器物纹/083_灵芝纹/083_灵芝纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "24b6be9d747057090754a6f892bfb11bb2e02d5c82e3e9ca3854df1237bc9873",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

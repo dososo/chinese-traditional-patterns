@@ -1,0 +1,2010 @@
+[
+  {
+    "id": "001",
+    "name_cn": "缠枝莲纹",
+    "name_en": "Interlocking Lotus Scroll Pattern",
+    "category": "植物花卉纹",
+    "summary": "以莲花与卷曲藤蔓连续展开，常见于瓷器、织锦与建筑装饰。",
+    "meaning": "清雅、连绵、生生不息",
+    "visual_keywords": [
+      "莲花",
+      "卷草",
+      "连续藤蔓",
+      "青绿白描"
+    ],
+    "batch": "第01批_001-010_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/001_缠枝莲纹/001_缠枝莲纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/001_缠枝莲纹/001_缠枝莲纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/001_缠枝莲纹/001_缠枝莲纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "4984244a6dfaf52b4e970232bb865825866b5d50eae167e721735d89fcabfa6f",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "002",
+    "name_cn": "宝相花纹",
+    "name_en": "Baoxiang Floral Pattern",
+    "category": "植物花卉纹",
+    "summary": "融合莲花、牡丹等花形的理想化花卉纹样，形态饱满华丽。",
+    "meaning": "庄严、富贵、圆满",
+    "visual_keywords": [
+      "对称团花",
+      "层叠花瓣",
+      "鎏金边线"
+    ],
+    "batch": "第01批_001-010_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/002_宝相花纹/002_宝相花纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/002_宝相花纹/002_宝相花纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/002_宝相花纹/002_宝相花纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "813408e02e62dc2597bc042c2d9d61e87466d15834cac226d702c747591e4daa",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "003",
+    "name_cn": "牡丹纹",
+    "name_en": "Peony Pattern",
+    "category": "植物花卉纹",
+    "summary": "牡丹被视为富贵之花，常用于瓷器、织绣、漆器与家具装饰。",
+    "meaning": "富贵、繁荣、华美",
+    "visual_keywords": [
+      "盛开牡丹",
+      "卷叶",
+      "朱砂粉绿"
+    ],
+    "batch": "第01批_001-010_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/003_牡丹纹/003_牡丹纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/003_牡丹纹/003_牡丹纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/003_牡丹纹/003_牡丹纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "688ea05afe40acb075a5d74c3f2dfccd8d09c87fce2e0806600d8fef337f82ee",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "004",
+    "name_cn": "菊花纹",
+    "name_en": "Chrysanthemum Pattern",
+    "category": "植物花卉纹",
+    "summary": "菊花纹线条舒展，常见于器物、织物和文人审美图案中。",
+    "meaning": "高洁、长寿、清雅",
+    "visual_keywords": [
+      "重瓣菊花",
+      "圆形构图",
+      "淡黄墨线"
+    ],
+    "batch": "第01批_001-010_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/004_菊花纹/004_菊花纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/004_菊花纹/004_菊花纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/004_菊花纹/004_菊花纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "5a29ecace0214e45cd1a694e19fdba2f3c4af7a99ac9dfa4293e5cda9fad3683",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "005",
+    "name_cn": "莲瓣纹",
+    "name_en": "Lotus Petal Pattern",
+    "category": "植物花卉纹",
+    "summary": "由莲花花瓣环绕组成，常见于佛教器物、瓷器口沿和器座装饰。",
+    "meaning": "清净、庄重、安宁",
+    "visual_keywords": [
+      "环形莲瓣",
+      "层层排列",
+      "对称构成"
+    ],
+    "batch": "第01批_001-010_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/005_莲瓣纹/005_莲瓣纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/005_莲瓣纹/005_莲瓣纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/005_莲瓣纹/005_莲瓣纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "33f9b7618138c56b4fe586d4ee96a3d60e103ffaf383b7e4a09d60f0663d4da2",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "006",
+    "name_cn": "卷草纹",
+    "name_en": "Scroll Grass Pattern",
+    "category": "植物花卉纹",
+    "summary": "以卷曲草叶连续延展，常作为边饰或填充纹样。",
+    "meaning": "生命力、延展、装饰韵律",
+    "visual_keywords": [
+      "藤草卷曲",
+      "连续边饰",
+      "墨绿线条"
+    ],
+    "batch": "第01批_001-010_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/006_卷草纹/006_卷草纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/006_卷草纹/006_卷草纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/006_卷草纹/006_卷草纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "eb709d544e706e3fa9473d058432e80fc18c61ac8608079f544af0dfb3131e83",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "007",
+    "name_cn": "忍冬纹",
+    "name_en": "Honeysuckle Pattern",
+    "category": "植物花卉纹",
+    "summary": "忍冬纹枝叶翻卷灵动，常用于石刻、壁画和器物装饰。",
+    "meaning": "生命延续、坚韧、繁盛",
+    "visual_keywords": [
+      "忍冬叶",
+      "翻卷叶片",
+      "古典石刻感"
+    ],
+    "batch": "第01批_001-010_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/007_忍冬纹/007_忍冬纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/007_忍冬纹/007_忍冬纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/007_忍冬纹/007_忍冬纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "d3001e1a9fecb2491ffe8f3006017b4508467d40c31b4b9e970d8b3a58a798a1",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "008",
+    "name_cn": "唐草纹",
+    "name_en": "Tang Scroll Pattern",
+    "category": "植物花卉纹",
+    "summary": "以蔓草连续缠绕为特征，结构自由华丽，适合背景与边饰设计。",
+    "meaning": "繁盛、流动、华丽",
+    "visual_keywords": [
+      "蔓草",
+      "花叶交织",
+      "唐风装饰"
+    ],
+    "batch": "第01批_001-010_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/008_唐草纹/008_唐草纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/008_唐草纹/008_唐草纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/008_唐草纹/008_唐草纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "6111ffc7147f54d08e6579122e0c396cbe90e43e19dcd92e2b441b2c95b681d4",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "009",
+    "name_cn": "石榴纹",
+    "name_en": "Pomegranate Pattern",
+    "category": "植物花卉纹",
+    "summary": "石榴多籽，常见于织绣、瓷器与民俗装饰。",
+    "meaning": "多子多福、家族兴旺",
+    "visual_keywords": [
+      "裂开石榴",
+      "多籽",
+      "花叶环绕"
+    ],
+    "batch": "第01批_001-010_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/009_石榴纹/009_石榴纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/009_石榴纹/009_石榴纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/009_石榴纹/009_石榴纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "fbee9c3bdf860962219e54df041abd6cccd6de258bd0286575f124fc5aaed6c9",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "010",
+    "name_cn": "梅花纹",
+    "name_en": "Plum Blossom Pattern",
+    "category": "植物花卉纹",
+    "summary": "梅花凌寒开放，是传统纹样中极具文人气质的花卉主题。",
+    "meaning": "坚韧、高洁、春信",
+    "visual_keywords": [
+      "五瓣梅花",
+      "枝干",
+      "留白",
+      "墨色"
+    ],
+    "batch": "第01批_001-010_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/010_梅花纹/010_梅花纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/010_梅花纹/010_梅花纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/010_梅花纹/010_梅花纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "dd9d8ab5b1a996e411dafed8cb4ff52421a361876ce2f8f9409b8f4eb6a419f9",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "011",
+    "name_cn": "兰草纹",
+    "name_en": "Orchid Pattern",
+    "category": "植物花卉纹",
+    "summary": "兰草纹清秀舒展，常表现幽雅、品格与文人气息。",
+    "meaning": "清雅、品格、君子气",
+    "visual_keywords": [
+      "兰叶舒展",
+      "细线条",
+      "淡墨青绿"
+    ],
+    "batch": "第02批_011-020_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/011_兰草纹/011_兰草纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/011_兰草纹/011_兰草纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/011_兰草纹/011_兰草纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "6a1d18a2ac65f00c9e0836e4efbe8edb6125cf446bf827afa474582c53129dd4",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "012",
+    "name_cn": "竹叶纹",
+    "name_en": "Bamboo Leaf Pattern",
+    "category": "植物花卉纹",
+    "summary": "竹叶纹常见于书画、器物和园林装饰图案。",
+    "meaning": "虚心、气节、平安",
+    "visual_keywords": [
+      "竹叶",
+      "竹节",
+      "疏密构图"
+    ],
+    "batch": "第02批_011-020_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/012_竹叶纹/012_竹叶纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/012_竹叶纹/012_竹叶纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/012_竹叶纹/012_竹叶纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "6d11df41586999992ef8943d602d4da60760e722a272ab3efddb2073a1e5883a",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "013",
+    "name_cn": "松针纹",
+    "name_en": "Pine Needle Pattern",
+    "category": "植物花卉纹",
+    "summary": "松针纹可用于表现古朴、沉稳、清雅的视觉氛围。",
+    "meaning": "长寿、坚贞、稳重",
+    "visual_keywords": [
+      "松枝松针",
+      "墨绿",
+      "古雅构图"
+    ],
+    "batch": "第02批_011-020_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/013_松针纹/013_松针纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/013_松针纹/013_松针纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/013_松针纹/013_松针纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "2cc428e7bc1984c5f61bc4cdfc1825fbcce157cd12e4af824cc0581c581cc5ae",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "014",
+    "name_cn": "桃花纹",
+    "name_en": "Peach Blossom Pattern",
+    "category": "植物花卉纹",
+    "summary": "桃花纹轻盈明丽，适合表现春日与美好祝愿。",
+    "meaning": "生机、姻缘、美好",
+    "visual_keywords": [
+      "桃花",
+      "枝叶",
+      "粉色淡彩"
+    ],
+    "batch": "第02批_011-020_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/014_桃花纹/014_桃花纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/014_桃花纹/014_桃花纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/014_桃花纹/014_桃花纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "da8da9024f999092bc84aa46ac60e3da8810c356c5232662c6112371503b40d6",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "015",
+    "name_cn": "海棠纹",
+    "name_en": "Begonia Pattern",
+    "category": "植物花卉纹",
+    "summary": "海棠纹柔美端庄，常用于织绣、窗格、家具与器物装饰。",
+    "meaning": "富贵满堂、柔美、雅致",
+    "visual_keywords": [
+      "海棠花形",
+      "圆润花瓣",
+      "对称"
+    ],
+    "batch": "第02批_011-020_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/015_海棠纹/015_海棠纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/015_海棠纹/015_海棠纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/015_海棠纹/015_海棠纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "ca5211bc76a02cad45b3a64b9a6455f61446ff075e524da3f0a2fde4580c0fcb",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "016",
+    "name_cn": "荷叶纹",
+    "name_en": "Lotus Leaf Pattern",
+    "category": "植物花卉纹",
+    "summary": "荷叶纹常与莲花组合出现，叶片舒展，具有自然意象。",
+    "meaning": "清净、自然、舒展",
+    "visual_keywords": [
+      "大荷叶",
+      "莲茎",
+      "水面留白"
+    ],
+    "batch": "第02批_011-020_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/016_荷叶纹/016_荷叶纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/016_荷叶纹/016_荷叶纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/016_荷叶纹/016_荷叶纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "c3bc982178c60b8ef5077db201ec70f53c3e81cd4e497721da4d106dccd53285",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "017",
+    "name_cn": "葡萄藤纹",
+    "name_en": "Grape Vine Pattern",
+    "category": "植物花卉纹",
+    "summary": "葡萄藤蔓枝叶繁密，果实成串，适合丰收主题纹样。",
+    "meaning": "丰收、多子、繁盛",
+    "visual_keywords": [
+      "葡萄串",
+      "藤蔓",
+      "叶片缠绕"
+    ],
+    "batch": "第02批_011-020_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/017_葡萄藤纹/017_葡萄藤纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/017_葡萄藤纹/017_葡萄藤纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/017_葡萄藤纹/017_葡萄藤纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "b99629ded0333c383ee14a7149755aff1d0fb93992acf3e1ad73992238f0f9b9",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "018",
+    "name_cn": "葫芦藤纹",
+    "name_en": "Gourd Vine Pattern",
+    "category": "植物花卉纹",
+    "summary": "葫芦藤纹常用于吉祥主题装饰，形态亲切而富有民俗感。",
+    "meaning": "福禄、绵延、护佑",
+    "visual_keywords": [
+      "葫芦",
+      "藤蔓",
+      "卷须",
+      "连续纹"
+    ],
+    "batch": "第02批_011-020_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/018_葫芦藤纹/018_葫芦藤纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/018_葫芦藤纹/018_葫芦藤纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/018_葫芦藤纹/018_葫芦藤纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "0efb728a4c8397f78cc8ece0986fa115554cff4601e7403e292f0d3130bf4818",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "019",
+    "name_cn": "折枝花纹",
+    "name_en": "Broken-Branch Floral Pattern",
+    "category": "植物花卉纹",
+    "summary": "折枝花以单枝花卉入纹，构图灵活，常见于瓷器、织物与装饰画。",
+    "meaning": "雅致、自然、灵动",
+    "visual_keywords": [
+      "单枝花",
+      "花叶组合",
+      "留白"
+    ],
+    "batch": "第02批_011-020_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/019_折枝花纹/019_折枝花纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/019_折枝花纹/019_折枝花纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/019_折枝花纹/019_折枝花纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "281fb1bee18dcee0332a988ca21113e523da5952104219ea9ae6cb0f7c4de0dd",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "020",
+    "name_cn": "团花纹",
+    "name_en": "Medallion Floral Pattern",
+    "category": "植物花卉纹",
+    "summary": "团花纹以圆形花卉构成中心图案，结构完整饱满。",
+    "meaning": "圆满、和美、富丽",
+    "visual_keywords": [
+      "圆形团花",
+      "中心对称",
+      "花叶层叠"
+    ],
+    "batch": "第02批_011-020_植物花卉纹",
+    "card_image": "patterns/001-020_植物花卉纹/020_团花纹/020_团花纹_卡片图.png",
+    "detail_page": "patterns/001-020_植物花卉纹/020_团花纹/020_团花纹_详情页.md",
+    "meta_json": "patterns/001-020_植物花卉纹/020_团花纹/020_团花纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "b5fd3f284aea3de1d777bbeaf9c5cd36e22ba6e276e6806e9cc2a43f30c93e4e",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "021",
+    "name_cn": "龙纹",
+    "name_en": "Dragon Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "龙纹是中国传统纹样中的核心祥瑞题材，常见于服饰、器物和建筑装饰。",
+    "meaning": "威仪、力量、尊贵、雨水",
+    "visual_keywords": [
+      "游龙",
+      "祥云",
+      "鳞片",
+      "金青配色"
+    ],
+    "batch": "第03批_021-030_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/021_龙纹/021_龙纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/021_龙纹/021_龙纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/021_龙纹/021_龙纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "f1636491ba0853895469406bb02457e0dedf00ba06c44a61307f10cf1828737d",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "022",
+    "name_cn": "夔龙纹",
+    "name_en": "Kui Dragon Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "夔龙纹多见于青铜器装饰，形体抽象古拙。",
+    "meaning": "礼制、威严、古朴",
+    "visual_keywords": [
+      "单足龙形",
+      "青铜感",
+      "几何化"
+    ],
+    "batch": "第03批_021-030_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/022_夔龙纹/022_夔龙纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/022_夔龙纹/022_夔龙纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/022_夔龙纹/022_夔龙纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "73e2652629634b167fe6c7ae418705f6c7a708c6d2bb26210882245d2494a2a7",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "023",
+    "name_cn": "螭龙纹",
+    "name_en": "Chi Dragon Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "螭龙纹常见于玉器、建筑和家具装饰，形态盘曲灵动。",
+    "meaning": "守护、祥瑞、灵动",
+    "visual_keywords": [
+      "盘曲小龙",
+      "卷尾",
+      "玉雕感"
+    ],
+    "batch": "第03批_021-030_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/023_螭龙纹/023_螭龙纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/023_螭龙纹/023_螭龙纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/023_螭龙纹/023_螭龙纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "1788b183609f7117b5022b127f429c9a1b1e2cd66fbce3ff86813dc6b92c095f",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "024",
+    "name_cn": "凤鸟纹",
+    "name_en": "Phoenix Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "凤鸟纹常与花卉、云纹组合，视觉华丽优雅。",
+    "meaning": "祥瑞、高贵、和美",
+    "visual_keywords": [
+      "凤凰",
+      "羽尾",
+      "祥云",
+      "朱砂鎏金"
+    ],
+    "batch": "第03批_021-030_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/024_凤鸟纹/024_凤鸟纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/024_凤鸟纹/024_凤鸟纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/024_凤鸟纹/024_凤鸟纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "95718f92e39295a68128aae2d82191e4b1525b46b21f372182523be2fbaac9d8",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "025",
+    "name_cn": "夔凤纹",
+    "name_en": "Kui Phoenix Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "夔凤纹形态古雅，多以抽象鸟形和卷曲线条构成。",
+    "meaning": "庄重、祥瑞、礼器感",
+    "visual_keywords": [
+      "抽象凤鸟",
+      "青铜绿",
+      "对称构图"
+    ],
+    "batch": "第03批_021-030_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/025_夔凤纹/025_夔凤纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/025_夔凤纹/025_夔凤纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/025_夔凤纹/025_夔凤纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "a55842d78effac5363e9ca0680bb0344af3bac954a8ec188227a2f612c86d3f4",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "026",
+    "name_cn": "麒麟纹",
+    "name_en": "Qilin Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "麒麟是传统瑞兽，常用于建筑、织绣与器物装饰。",
+    "meaning": "仁德、太平、吉祥",
+    "visual_keywords": [
+      "麒麟",
+      "火焰云",
+      "鳞甲",
+      "祥瑞感"
+    ],
+    "batch": "第03批_021-030_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/026_麒麟纹/026_麒麟纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/026_麒麟纹/026_麒麟纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/026_麒麟纹/026_麒麟纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "ab8efdd90eb379596a1f98286ad52741e019a7efa29239fa80484f398543703f",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "027",
+    "name_cn": "瑞狮纹",
+    "name_en": "Guardian Lion Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "狮纹常有镇守、威严与辟邪意味，适合作为气势强的纹样主题。",
+    "meaning": "镇守、威严、辟邪",
+    "visual_keywords": [
+      "瑞狮",
+      "卷毛",
+      "绣球",
+      "威严造型"
+    ],
+    "batch": "第03批_021-030_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/027_瑞狮纹/027_瑞狮纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/027_瑞狮纹/027_瑞狮纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/027_瑞狮纹/027_瑞狮纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "76c28581220313c93d09ae736c904ecb4c8d1c73e4d41fb2790642ae9eb6d3c0",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "028",
+    "name_cn": "饕餮纹",
+    "name_en": "Taotie Mask Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "饕餮纹常见于青铜器，以对称兽面构成，神秘厚重。",
+    "meaning": "神秘、威慑、礼制",
+    "visual_keywords": [
+      "对称兽面",
+      "青铜纹理",
+      "粗线条"
+    ],
+    "batch": "第03批_021-030_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/028_饕餮纹/028_饕餮纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/028_饕餮纹/028_饕餮纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/028_饕餮纹/028_饕餮纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "2050f5c29d256335287774e5e122a8456e62a5fbc3368b239c2f3287ceb38a12",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "029",
+    "name_cn": "兽面纹",
+    "name_en": "Animal Mask Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "兽面纹以抽象动物面部为主体，风格庄重、神秘、古朴。",
+    "meaning": "守护、威严、古意",
+    "visual_keywords": [
+      "正面对称兽面",
+      "目纹",
+      "角纹"
+    ],
+    "batch": "第03批_021-030_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/029_兽面纹/029_兽面纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/029_兽面纹/029_兽面纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/029_兽面纹/029_兽面纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "59c95876aec3a1cd89dff1a56af5be8932d68ae50622dc447c5114ce1b92ae19",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "030",
+    "name_cn": "蝙蝠纹",
+    "name_en": "Bat Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "蝙蝠因“蝠”谐音“福”，常用于吉祥图案。",
+    "meaning": "福气、好运、吉祥",
+    "visual_keywords": [
+      "五只蝙蝠",
+      "祥云",
+      "圆形构图"
+    ],
+    "batch": "第03批_021-030_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/030_蝙蝠纹/030_蝙蝠纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/030_蝙蝠纹/030_蝙蝠纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/030_蝙蝠纹/030_蝙蝠纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "c07f4861fa5d0fc34e2b99b248f874d1c4221c62dca15860096695c350d05b02",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "031",
+    "name_cn": "鹤纹",
+    "name_en": "Crane Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "鹤纹多用于服饰、瓷器、屏风和吉祥图案。",
+    "meaning": "长寿、高洁、仙意",
+    "visual_keywords": [
+      "仙鹤",
+      "云气",
+      "松枝",
+      "水面"
+    ],
+    "batch": "第04批_031-040_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/031_鹤纹/031_鹤纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/031_鹤纹/031_鹤纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/031_鹤纹/031_鹤纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "a97d0923306493738e9848d34c6d875c7e2d2b50bf71090b220997043aba0cb1",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "032",
+    "name_cn": "鹿纹",
+    "name_en": "Deer Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "鹿与“禄”谐音，常与松、鹤、灵芝等元素组合。",
+    "meaning": "俸禄、祥瑞、长寿",
+    "visual_keywords": [
+      "梅花鹿",
+      "灵芝",
+      "松树",
+      "山石"
+    ],
+    "batch": "第04批_031-040_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/032_鹿纹/032_鹿纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/032_鹿纹/032_鹿纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/032_鹿纹/032_鹿纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "eba72f8eba7f66f92e05443581fbb34eae643a0eeed8f81e708c6074bc868884",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "033",
+    "name_cn": "鱼纹",
+    "name_en": "Fish Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "鱼纹常见于瓷器、民俗年画和织物装饰。",
+    "meaning": "年年有余、丰足、繁盛",
+    "visual_keywords": [
+      "双鱼",
+      "水波",
+      "莲花",
+      "圆形"
+    ],
+    "batch": "第04批_031-040_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/033_鱼纹/033_鱼纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/033_鱼纹/033_鱼纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/033_鱼纹/033_鱼纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "a18b11aaa8ddc1c95a38bfe38d213d8672ce4e2de8be6efacf1a1eb5255d181e",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "034",
+    "name_cn": "鲤鱼纹",
+    "name_en": "Carp Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "鲤鱼纹常与跃水、龙门意象相关，具有进取意味。",
+    "meaning": "奋进、顺达、富足",
+    "visual_keywords": [
+      "鲤鱼跃浪",
+      "水花",
+      "云纹"
+    ],
+    "batch": "第04批_031-040_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/034_鲤鱼纹/034_鲤鱼纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/034_鲤鱼纹/034_鲤鱼纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/034_鲤鱼纹/034_鲤鱼纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "4f911f4989d73639ec15de1167406fda15f097ba2823bc519d5c5d69cba007de",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "035",
+    "name_cn": "鸳鸯纹",
+    "name_en": "Mandarin Duck Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "鸳鸯纹常用于婚庆、织绣与爱情主题装饰。",
+    "meaning": "夫妻和美、成双成对",
+    "visual_keywords": [
+      "一对鸳鸯",
+      "莲叶",
+      "水纹"
+    ],
+    "batch": "第04批_031-040_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/035_鸳鸯纹/035_鸳鸯纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/035_鸳鸯纹/035_鸳鸯纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/035_鸳鸯纹/035_鸳鸯纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "50eb61820f5a6616791d84041f6f1a8eaa95c81ed4949033ba71b1489cfa5bd2",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "036",
+    "name_cn": "喜鹊纹",
+    "name_en": "Magpie Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "喜鹊纹常与梅花组合，形成喜上眉梢的吉祥意象。",
+    "meaning": "喜事临门、吉庆",
+    "visual_keywords": [
+      "喜鹊",
+      "梅枝",
+      "花苞"
+    ],
+    "batch": "第04批_031-040_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/036_喜鹊纹/036_喜鹊纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/036_喜鹊纹/036_喜鹊纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/036_喜鹊纹/036_喜鹊纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "7df072418cb812816a6df5df29af2eeb027b96da416e2332a3f61ea3661bf598",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "037",
+    "name_cn": "马纹",
+    "name_en": "Horse Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "马纹表现速度、力量与进取精神，常见于壁画、器物与民俗装饰。",
+    "meaning": "奔腾、力量、进取",
+    "visual_keywords": [
+      "奔马",
+      "飘带",
+      "云气",
+      "动感"
+    ],
+    "batch": "第04批_031-040_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/037_马纹/037_马纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/037_马纹/037_马纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/037_马纹/037_马纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "9d3f2169a9c2749b551c33437a127f2d890b1b7c405f8338bb396153d58de7a0",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "038",
+    "name_cn": "龟纹",
+    "name_en": "Turtle Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "龟在传统文化中常与长寿、稳固相关。",
+    "meaning": "长寿、稳固、安宁",
+    "visual_keywords": [
+      "龟形",
+      "龟甲",
+      "几何纹"
+    ],
+    "batch": "第04批_031-040_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/038_龟纹/038_龟纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/038_龟纹/038_龟纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/038_龟纹/038_龟纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "0a3337f4db1f41dfdbc47edc5d0767d4a6654d005aeb2051972bd617055eb1d7",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "039",
+    "name_cn": "蝴蝶纹",
+    "name_en": "Butterfly Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "蝴蝶纹轻盈灵动，常与花卉组合。",
+    "meaning": "美好、长寿、自由",
+    "visual_keywords": [
+      "双蝶",
+      "花枝",
+      "对称翅纹"
+    ],
+    "batch": "第04批_031-040_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/039_蝴蝶纹/039_蝴蝶纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/039_蝴蝶纹/039_蝴蝶纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/039_蝴蝶纹/039_蝴蝶纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "56df627ce12d25c45d8050b1da8c28f000365d202e231fc6a4fd015db9ac58f6",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "040",
+    "name_cn": "金蟾纹",
+    "name_en": "Golden Toad Pattern",
+    "category": "动物瑞兽纹",
+    "summary": "金蟾纹带有招财、纳福意味，适合民俗吉祥类纹样展示。",
+    "meaning": "招财、纳福、富足",
+    "visual_keywords": [
+      "三足金蟾",
+      "铜钱",
+      "云纹"
+    ],
+    "batch": "第04批_031-040_动物瑞兽纹",
+    "card_image": "patterns/021-040_动物瑞兽纹/040_金蟾纹/040_金蟾纹_卡片图.png",
+    "detail_page": "patterns/021-040_动物瑞兽纹/040_金蟾纹/040_金蟾纹_详情页.md",
+    "meta_json": "patterns/021-040_动物瑞兽纹/040_金蟾纹/040_金蟾纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "4708aded8dc1a69d949d1b6457b88cdd3a8a5257b66192ebe8c9eb50fb76ea37",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "041",
+    "name_cn": "回纹",
+    "name_en": "Key Fret Pattern",
+    "category": "几何锦纹",
+    "summary": "回纹由连续折线构成，结构规整，适合边框和底纹。",
+    "meaning": "循环往复、生生不息",
+    "visual_keywords": [
+      "方形折线",
+      "连续边框",
+      "黑绿配色"
+    ],
+    "batch": "第05批_041-050_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/041_回纹/041_回纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/041_回纹/041_回纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/041_回纹/041_回纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "3b520d77307f21e70dc4276455bb3803c21e0aea91ebebc1af93e072674ff078",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "042",
+    "name_cn": "雷纹",
+    "name_en": "Thunder Pattern",
+    "category": "几何锦纹",
+    "summary": "雷纹形似旋转折线，常见于青铜器和陶瓷装饰。",
+    "meaning": "力量、威仪、古朴",
+    "visual_keywords": [
+      "方折旋纹",
+      "青铜器感",
+      "重复排列"
+    ],
+    "batch": "第05批_041-050_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/042_雷纹/042_雷纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/042_雷纹/042_雷纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/042_雷纹/042_雷纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "c9b793d4f82c0a3399712d474a0838d864412833f0a7cd78db647684aeed82c3",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "043",
+    "name_cn": "云雷纹",
+    "name_en": "Cloud-Thunder Pattern",
+    "category": "几何锦纹",
+    "summary": "云雷纹融合云气与雷纹结构，常作为青铜器底纹。",
+    "meaning": "神秘、礼制、祥瑞",
+    "visual_keywords": [
+      "云形卷曲",
+      "雷纹底",
+      "青铜绿"
+    ],
+    "batch": "第05批_041-050_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/043_云雷纹/043_云雷纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/043_云雷纹/043_云雷纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/043_云雷纹/043_云雷纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "e3086cd7bdfe50fa7e062ffc760bff4a695bc9622dae5e1a7c826ad9154b8ba9",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "044",
+    "name_cn": "龟背纹",
+    "name_en": "Tortoiseshell Pattern",
+    "category": "几何锦纹",
+    "summary": "龟背纹由六边形或龟甲形连续组成，结构稳定有序。",
+    "meaning": "长寿、坚固、秩序",
+    "visual_keywords": [
+      "六边形网格",
+      "花心点缀"
+    ],
+    "batch": "第05批_041-050_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/044_龟背纹/044_龟背纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/044_龟背纹/044_龟背纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/044_龟背纹/044_龟背纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "a3c1d8dc1405357219f43198ef4e5ef406b41e125753c164cf0101f26886a1f9",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "045",
+    "name_cn": "菱格纹",
+    "name_en": "Diamond Lattice Pattern",
+    "category": "几何锦纹",
+    "summary": "菱格纹结构简洁明快，常用于织锦、陶瓷和建筑装饰。",
+    "meaning": "秩序、连绵、稳定",
+    "visual_keywords": [
+      "菱形网格",
+      "连续重复",
+      "淡绿"
+    ],
+    "batch": "第05批_041-050_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/045_菱格纹/045_菱格纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/045_菱格纹/045_菱格纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/045_菱格纹/045_菱格纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "2309b47e06ead645cde888d7cc14bbe0cc74e45c2ded1eec5e87faadd72dcbb1",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "046",
+    "name_cn": "连珠纹",
+    "name_en": "Beaded Pattern",
+    "category": "几何锦纹",
+    "summary": "连珠纹由连续圆点组成，常用于边饰和器物分隔线。",
+    "meaning": "华丽、秩序、连贯",
+    "visual_keywords": [
+      "连续圆珠",
+      "边框",
+      "金色点线"
+    ],
+    "batch": "第05批_041-050_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/046_连珠纹/046_连珠纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/046_连珠纹/046_连珠纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/046_连珠纹/046_连珠纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "067be08953cf8b7a6b6d9a1c55826dd29b956aaeb888c185a630ddc83bdf4826",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "047",
+    "name_cn": "方胜纹",
+    "name_en": "Double-Diamond Pattern",
+    "category": "几何锦纹",
+    "summary": "方胜纹由相连菱形构成，常有同心、相合与吉祥意味。",
+    "meaning": "同心、相合、吉祥",
+    "visual_keywords": [
+      "双菱形",
+      "交叠结构",
+      "锦纹质感"
+    ],
+    "batch": "第05批_041-050_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/047_方胜纹/047_方胜纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/047_方胜纹/047_方胜纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/047_方胜纹/047_方胜纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "a648261a6cedffbe9b146030043fd75dab8bda511f753138470bc97494c39a06",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "048",
+    "name_cn": "盘长纹",
+    "name_en": "Endless Knot Pattern",
+    "category": "几何锦纹",
+    "summary": "盘长纹线条回环不断，是常见吉祥装饰纹样。",
+    "meaning": "绵延、长久、圆满",
+    "visual_keywords": [
+      "无限结",
+      "连续线条",
+      "朱砂金线"
+    ],
+    "batch": "第05批_041-050_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/048_盘长纹/048_盘长纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/048_盘长纹/048_盘长纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/048_盘长纹/048_盘长纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "1db6dea9a9d6a47238ee2b2977a462a4d2430be1783b29313245227692eec1c6",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "049",
+    "name_cn": "万字锦纹",
+    "name_en": "Wan Character Brocade Pattern",
+    "category": "几何锦纹",
+    "summary": "万字锦纹由传统吉祥符号连续组合，适合作为锦地背景。",
+    "meaning": "万福、绵长、繁盛",
+    "visual_keywords": [
+      "几何连续纹",
+      "传统吉祥",
+      "锦地"
+    ],
+    "batch": "第05批_041-050_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/049_万字锦纹/049_万字锦纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/049_万字锦纹/049_万字锦纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/049_万字锦纹/049_万字锦纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "4cf367669b7b8eab62f05481bbac620c03befb679ebdd6fadca7f45aede8a813",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "050",
+    "name_cn": "锁子纹",
+    "name_en": "Chainmail Pattern",
+    "category": "几何锦纹",
+    "summary": "锁子纹由环状结构连续相扣，装饰感强。",
+    "meaning": "连接、坚固、连续",
+    "visual_keywords": [
+      "环环相扣",
+      "金属感",
+      "连续排列"
+    ],
+    "batch": "第05批_041-050_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/050_锁子纹/050_锁子纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/050_锁子纹/050_锁子纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/050_锁子纹/050_锁子纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "2005f357bf76ec5c807d3e2d6041cd8510d03438fbb1a0463ef00d9bed672831",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "051",
+    "name_cn": "冰裂纹",
+    "name_en": "Crackle Ice Pattern",
+    "category": "几何锦纹",
+    "summary": "冰裂纹形似自然冰面裂纹，常见于瓷器和窗格。",
+    "meaning": "雅致、清冷、自然变化",
+    "visual_keywords": [
+      "不规则裂线",
+      "蓝白瓷感"
+    ],
+    "batch": "第06批_051-060_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/051_冰裂纹/051_冰裂纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/051_冰裂纹/051_冰裂纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/051_冰裂纹/051_冰裂纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "2610bd1cec3af64425feb63e12105032444bff7b02418667977c8587e9e65e26",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "052",
+    "name_cn": "锦地纹",
+    "name_en": "Brocade Ground Pattern",
+    "category": "几何锦纹",
+    "summary": "锦地纹常作为复杂纹样底纹，细密华丽。",
+    "meaning": "繁复、华美、秩序",
+    "visual_keywords": [
+      "细密几何底纹",
+      "低对比"
+    ],
+    "batch": "第06批_051-060_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/052_锦地纹/052_锦地纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/052_锦地纹/052_锦地纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/052_锦地纹/052_锦地纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "5f61cef044934264d242c58bac658a25e37b38580679094e9ed14cbc8c0f0878",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "053",
+    "name_cn": "十字花纹",
+    "name_en": "Cross Floral Pattern",
+    "category": "几何锦纹",
+    "summary": "十字花纹由中心花形与四向结构构成，常见于织物装饰。",
+    "meaning": "四方、平衡、雅致",
+    "visual_keywords": [
+      "十字对称",
+      "小花",
+      "重复排列"
+    ],
+    "batch": "第06批_051-060_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/053_十字花纹/053_十字花纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/053_十字花纹/053_十字花纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/053_十字花纹/053_十字花纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "9fe4e745763a3394a9cf3801b80bac81c6730159fef8bb633f7a95b9bfb55b63",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "054",
+    "name_cn": "六角花纹",
+    "name_en": "Hexagonal Floral Pattern",
+    "category": "几何锦纹",
+    "summary": "六角花纹兼具几何秩序与花卉柔美。",
+    "meaning": "稳定、繁盛、秩序",
+    "visual_keywords": [
+      "六角格",
+      "花心",
+      "青绿白底"
+    ],
+    "batch": "第06批_051-060_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/054_六角花纹/054_六角花纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/054_六角花纹/054_六角花纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/054_六角花纹/054_六角花纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "3f4b78f583ed73579c244492c3441e1f89037a41f1798c618ded7c3a0995ad22",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "055",
+    "name_cn": "八角星纹",
+    "name_en": "Eight-Point Star Pattern",
+    "category": "几何锦纹",
+    "summary": "八角星纹具有放射状结构，视觉稳定醒目。",
+    "meaning": "光明、秩序、中心感",
+    "visual_keywords": [
+      "八角星",
+      "中心放射",
+      "对称"
+    ],
+    "batch": "第06批_051-060_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/055_八角星纹/055_八角星纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/055_八角星纹/055_八角星纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/055_八角星纹/055_八角星纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "2bd23bd7c67fa1d03cd7769a89c06505255e2da7581f6f5a02899f195eb7517b",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "056",
+    "name_cn": "波折纹",
+    "name_en": "Zigzag Wave Pattern",
+    "category": "几何锦纹",
+    "summary": "波折纹由连续折线构成，可表现水势、边界和节奏。",
+    "meaning": "流动、变化、节奏",
+    "visual_keywords": [
+      "锯齿折线",
+      "水波感",
+      "边饰"
+    ],
+    "batch": "第06批_051-060_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/056_波折纹/056_波折纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/056_波折纹/056_波折纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/056_波折纹/056_波折纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "70f01897a3315fa4b59800e53036aee6995726854913d06dc0a630738a65b1f5",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "057",
+    "name_cn": "曲尺纹",
+    "name_en": "Angular Meander Pattern",
+    "category": "几何锦纹",
+    "summary": "曲尺纹以直角转折形成连续路径，风格理性规整。",
+    "meaning": "规矩、秩序、延续",
+    "visual_keywords": [
+      "直角转折",
+      "边框",
+      "墨黑"
+    ],
+    "batch": "第06批_051-060_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/057_曲尺纹/057_曲尺纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/057_曲尺纹/057_曲尺纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/057_曲尺纹/057_曲尺纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "419c649392d67dbfa336fedf1d9b3b0bdb7c409b2eb7f3a793e806cc587d58f0",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "058",
+    "name_cn": "格锦纹",
+    "name_en": "Lattice Brocade Pattern",
+    "category": "几何锦纹",
+    "summary": "格锦纹由网格与小型花纹组合而成，适合作为织锦底纹。",
+    "meaning": "华美、秩序、丰富",
+    "visual_keywords": [
+      "网格",
+      "小花",
+      "织锦肌理"
+    ],
+    "batch": "第06批_051-060_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/058_格锦纹/058_格锦纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/058_格锦纹/058_格锦纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/058_格锦纹/058_格锦纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "e67607ff4288d1092a13c586fce8414e45469305d45acbcafa0d23a1ec430343",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "059",
+    "name_cn": "菱花锦纹",
+    "name_en": "Diamond Floral Brocade Pattern",
+    "category": "几何锦纹",
+    "summary": "菱花锦纹以菱形框架包裹花卉，兼具秩序和装饰性。",
+    "meaning": "和美、规整、繁盛",
+    "visual_keywords": [
+      "菱形内花",
+      "重复单元"
+    ],
+    "batch": "第06批_051-060_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/059_菱花锦纹/059_菱花锦纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/059_菱花锦纹/059_菱花锦纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/059_菱花锦纹/059_菱花锦纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "288207fc1911ea0e495154db11ebdd9a5355410fff199c1d733c1fd453660b3b",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "060",
+    "name_cn": "连环纹",
+    "name_en": "Linked Ring Pattern",
+    "category": "几何锦纹",
+    "summary": "连环纹由圆环连续相扣，适合作为边饰或背景纹样。",
+    "meaning": "连接、圆满、延续",
+    "visual_keywords": [
+      "圆环相扣",
+      "对称重复",
+      "金线"
+    ],
+    "batch": "第06批_051-060_几何锦纹",
+    "card_image": "patterns/041-060_几何锦纹/060_连环纹/060_连环纹_卡片图.png",
+    "detail_page": "patterns/041-060_几何锦纹/060_连环纹/060_连环纹_详情页.md",
+    "meta_json": "patterns/041-060_几何锦纹/060_连环纹/060_连环纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "bfefbbbd46571714abce54c44db806498db5692df1ebaeaf70eebbf0a4b3f763",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "061",
+    "name_cn": "祥云纹",
+    "name_en": "Auspicious Cloud Pattern",
+    "category": "云水山石纹",
+    "summary": "祥云纹是传统装饰中常见的吉祥纹样，线条圆润流动。",
+    "meaning": "祥瑞、升腾、美好征兆",
+    "visual_keywords": [
+      "卷曲云朵",
+      "柔和线条",
+      "青蓝"
+    ],
+    "batch": "第07批_061-070_云水山石纹",
+    "card_image": "patterns/061-075_云水山石纹/061_祥云纹/061_祥云纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/061_祥云纹/061_祥云纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/061_祥云纹/061_祥云纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "1def082329a2284f928c25181885d315a2cf43b3b7afa7da59e73ad65ee96a3b",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "062",
+    "name_cn": "如意云纹",
+    "name_en": "Ruyi Cloud Pattern",
+    "category": "云水山石纹",
+    "summary": "如意云纹结合云形与如意头造型，常用于器物和织物装饰。",
+    "meaning": "称心如意、吉祥圆满",
+    "visual_keywords": [
+      "如意头",
+      "云气卷曲",
+      "对称"
+    ],
+    "batch": "第07批_061-070_云水山石纹",
+    "card_image": "patterns/061-075_云水山石纹/062_如意云纹/062_如意云纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/062_如意云纹/062_如意云纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/062_如意云纹/062_如意云纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "78d4ed845b8e1794dacb5817fb917d416716eaa38a141c71e7435ec6c3166954",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "063",
+    "name_cn": "卷云纹",
+    "name_en": "Rolling Cloud Pattern",
+    "category": "云水山石纹",
+    "summary": "卷云纹线条盘旋流动，常见于器物、服饰和壁画装饰。",
+    "meaning": "灵动、仙意、升腾",
+    "visual_keywords": [
+      "大小卷云",
+      "流动节奏"
+    ],
+    "batch": "第07批_061-070_云水山石纹",
+    "card_image": "patterns/061-075_云水山石纹/063_卷云纹/063_卷云纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/063_卷云纹/063_卷云纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/063_卷云纹/063_卷云纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "0f610a0ff9c0533570ae24ea27c326bea3cf32aa046b24f30474852cf1237fe0",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "064",
+    "name_cn": "海水江崖纹",
+    "name_en": "Sea Wave and Mountain Pattern",
+    "category": "云水山石纹",
+    "summary": "海水江崖纹常见于服饰下摆，表现浪涛与山石。",
+    "meaning": "江山永固、福泽绵长",
+    "visual_keywords": [
+      "海浪",
+      "山崖",
+      "龙袍边饰感"
+    ],
+    "batch": "第07批_061-070_云水山石纹",
+    "card_image": "patterns/061-075_云水山石纹/064_海水江崖纹/064_海水江崖纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/064_海水江崖纹/064_海水江崖纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/064_海水江崖纹/064_海水江崖纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "9275ae87d1cf157d8ab3c209d4fad479012211f0670540915318f33d890d5ee5",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "065",
+    "name_cn": "水波纹",
+    "name_en": "Water Wave Pattern",
+    "category": "云水山石纹",
+    "summary": "水波纹以连续弧线表现水面流动，是常见辅助纹样。",
+    "meaning": "润泽、流转、生命力",
+    "visual_keywords": [
+      "层层波浪",
+      "靛蓝",
+      "白线"
+    ],
+    "batch": "第07批_061-070_云水山石纹",
+    "card_image": "patterns/061-075_云水山石纹/065_水波纹/065_水波纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/065_水波纹/065_水波纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/065_水波纹/065_水波纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "5555a9d114ee80ff90806b84bff52ecd89ec28ec3f91d1810c051e43b5522419",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "066",
+    "name_cn": "浪花纹",
+    "name_en": "Spray Wave Pattern",
+    "category": "云水山石纹",
+    "summary": "浪花纹比水波纹更具动感，适合海涛、江河和龙鱼主题。",
+    "meaning": "活力、流动、奋进",
+    "visual_keywords": [
+      "飞溅浪花",
+      "曲线",
+      "蓝白"
+    ],
+    "batch": "第07批_061-070_云水山石纹",
+    "card_image": "patterns/061-075_云水山石纹/066_浪花纹/066_浪花纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/066_浪花纹/066_浪花纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/066_浪花纹/066_浪花纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "e5220b387c464a75e3b2058bc10105bf91fd7ad20836426ac409115b12161be9",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "067",
+    "name_cn": "山纹",
+    "name_en": "Mountain Pattern",
+    "category": "云水山石纹",
+    "summary": "山纹以层叠山形构成，视觉稳重，适合底纹或主视觉。",
+    "meaning": "稳固、崇高、自然秩序",
+    "visual_keywords": [
+      "层叠山峰",
+      "几何化",
+      "墨青"
+    ],
+    "batch": "第07批_061-070_云水山石纹",
+    "card_image": "patterns/061-075_云水山石纹/067_山纹/067_山纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/067_山纹/067_山纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/067_山纹/067_山纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "70be6a881bc02b2f00d33d7d439a6f2c506b8785e72a38eeae3e0f899a937c6e",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "068",
+    "name_cn": "山水纹",
+    "name_en": "Landscape Pattern",
+    "category": "云水山石纹",
+    "summary": "山水纹将山、云、水组合成装饰图案，具有东方空间感。",
+    "meaning": "清雅、自然、文人意境",
+    "visual_keywords": [
+      "远山",
+      "流水",
+      "云雾",
+      "留白"
+    ],
+    "batch": "第07批_061-070_云水山石纹",
+    "card_image": "patterns/061-075_云水山石纹/068_山水纹/068_山水纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/068_山水纹/068_山水纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/068_山水纹/068_山水纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "304970725d594bf7bb7b60fc97b4ea4cc555488bba8f644d97c9ec840c6b9163",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "069",
+    "name_cn": "太湖石纹",
+    "name_en": "Taihu Rock Pattern",
+    "category": "云水山石纹",
+    "summary": "太湖石纹以奇石轮廓和孔洞造型为特征，常见于园林审美。",
+    "meaning": "雅趣、文人气、自然奇巧",
+    "visual_keywords": [
+      "奇石",
+      "孔洞",
+      "墨线",
+      "淡彩"
+    ],
+    "batch": "第07批_061-070_云水山石纹",
+    "card_image": "patterns/061-075_云水山石纹/069_太湖石纹/069_太湖石纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/069_太湖石纹/069_太湖石纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/069_太湖石纹/069_太湖石纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "f66979edd6e4fea6c5e29df1de4474e9aa715edbbff4b35c86edfbeeb136ba59",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "070",
+    "name_cn": "火焰纹",
+    "name_en": "Flame Pattern",
+    "category": "云水山石纹",
+    "summary": "火焰纹常用于佛教、瑞兽和法器装饰，线条上扬有力量感。",
+    "meaning": "神圣、能量、护佑",
+    "visual_keywords": [
+      "火焰尖卷",
+      "朱砂金线"
+    ],
+    "batch": "第07批_061-070_云水山石纹",
+    "card_image": "patterns/061-075_云水山石纹/070_火焰纹/070_火焰纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/070_火焰纹/070_火焰纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/070_火焰纹/070_火焰纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "1b3e934537c11e933ddf2add994b4cdd0d5979059413f91599846d1fd610a74f",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "071",
+    "name_cn": "流云纹",
+    "name_en": "Flowing Cloud Pattern",
+    "category": "云水山石纹",
+    "summary": "流云纹强调长线条的飘动感，适合表现轻盈和仙气。",
+    "meaning": "飘逸、自由、祥和",
+    "visual_keywords": [
+      "横向流动云带",
+      "柔线"
+    ],
+    "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+    "card_image": "patterns/061-075_云水山石纹/071_流云纹/071_流云纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/071_流云纹/071_流云纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/071_流云纹/071_流云纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "a936ae186e46388609be7a53e7547f62303cb5bf078c5fbefaa72468cdb62551",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "072",
+    "name_cn": "云气纹",
+    "name_en": "Cloud Vapor Pattern",
+    "category": "云水山石纹",
+    "summary": "云气纹更抽象，常以卷曲气流构成，适合作为辅助底纹。",
+    "meaning": "升腾、灵动、气韵",
+    "visual_keywords": [
+      "抽象气流",
+      "淡墨",
+      "低密度"
+    ],
+    "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+    "card_image": "patterns/061-075_云水山石纹/072_云气纹/072_云气纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/072_云气纹/072_云气纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/072_云气纹/072_云气纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "900ec941044d0a96bd26a13247a13b6d924e24ba9f046fd4a22d5280c930d89d",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "073",
+    "name_cn": "涡纹",
+    "name_en": "Spiral Pattern",
+    "category": "云水山石纹",
+    "summary": "涡纹由旋转线条构成，可表现水流、云气或古代器物气息。",
+    "meaning": "旋转、流转、神秘",
+    "visual_keywords": [
+      "螺旋",
+      "重复",
+      "古朴"
+    ],
+    "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+    "card_image": "patterns/061-075_云水山石纹/073_涡纹/073_涡纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/073_涡纹/073_涡纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/073_涡纹/073_涡纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "2a90a983298e108a2487e32fdda8503cfcbe6a04847cc729ab18b361ab322be4",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "074",
+    "name_cn": "雨点纹",
+    "name_en": "Raindrop Pattern",
+    "category": "云水山石纹",
+    "summary": "雨点纹以点状或泪滴状连续分布，视觉轻巧。",
+    "meaning": "润泽、自然、清新",
+    "visual_keywords": [
+      "小雨滴",
+      "规律排列",
+      "淡蓝"
+    ],
+    "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+    "card_image": "patterns/061-075_云水山石纹/074_雨点纹/074_雨点纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/074_雨点纹/074_雨点纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/074_雨点纹/074_雨点纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "e207302db25403daef9b1e6db98bb65e94fe02d05abe2cce01e8c59a6e9b94b3",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "075",
+    "name_cn": "星宿纹",
+    "name_en": "Star Constellation Pattern",
+    "category": "云水山石纹",
+    "summary": "星宿纹源于天象想象，以星点、圆形和线条表现宇宙秩序。",
+    "meaning": "天象、秩序、宏远",
+    "visual_keywords": [
+      "星点",
+      "圆轨",
+      "深蓝金色"
+    ],
+    "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+    "card_image": "patterns/061-075_云水山石纹/075_星宿纹/075_星宿纹_卡片图.png",
+    "detail_page": "patterns/061-075_云水山石纹/075_星宿纹/075_星宿纹_详情页.md",
+    "meta_json": "patterns/061-075_云水山石纹/075_星宿纹/075_星宿纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "fe6f311651091c3f6ff2bbf8f6cd8dfa534dcf98f2b814b8bbfaa5e7073e081e",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "076",
+    "name_cn": "如意纹",
+    "name_en": "Ruyi Pattern",
+    "category": "吉祥器物纹",
+    "summary": "如意纹由如意头造型发展而来，常见于边饰与器物装饰。",
+    "meaning": "顺遂、称心、吉祥",
+    "visual_keywords": [
+      "如意头",
+      "卷草",
+      "对称边饰"
+    ],
+    "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/076_如意纹/076_如意纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/076_如意纹/076_如意纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/076_如意纹/076_如意纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "be7e54fc217dcf66297bc3912d9d57b51a7624a57cd77a7b53e9e09a34a10143",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "077",
+    "name_cn": "宝瓶纹",
+    "name_en": "Treasure Vase Pattern",
+    "category": "吉祥器物纹",
+    "summary": "宝瓶纹常作为吉祥器物出现，可与花枝、祥云组合。",
+    "meaning": "平安、富足、聚福",
+    "visual_keywords": [
+      "宝瓶",
+      "花枝",
+      "祥云"
+    ],
+    "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/077_宝瓶纹/077_宝瓶纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/077_宝瓶纹/077_宝瓶纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/077_宝瓶纹/077_宝瓶纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "a11737f2f571e33ea2615b87baa855502132e0f85733afff043d170bcd2cb25e",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "078",
+    "name_cn": "双钱纹",
+    "name_en": "Double Coin Pattern",
+    "category": "吉祥器物纹",
+    "summary": "双钱纹由钱币形态组合而成，结构简洁，寓意明确。",
+    "meaning": "财运、圆满、连通",
+    "visual_keywords": [
+      "两枚古钱",
+      "方孔",
+      "金线"
+    ],
+    "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/078_双钱纹/078_双钱纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/078_双钱纹/078_双钱纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/078_双钱纹/078_双钱纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "8cbdef3e338a87677fe0756e2be73301ad5141c80e6e5b0d515b4c6dda796c28",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "079",
+    "name_cn": "铜钱纹",
+    "name_en": "Coin Pattern",
+    "category": "吉祥器物纹",
+    "summary": "铜钱纹以外圆内方为基本形，适合连续纹和底纹设计。",
+    "meaning": "财富、秩序、福运",
+    "visual_keywords": [
+      "方孔钱",
+      "连续排列",
+      "古铜色"
+    ],
+    "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/079_铜钱纹/079_铜钱纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/079_铜钱纹/079_铜钱纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/079_铜钱纹/079_铜钱纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "73a809ddf33bdf1695ac45e6debe4cfdb93f818ec99d3d44ffc5bf5f5ed5bd19",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "080",
+    "name_cn": "花篮纹",
+    "name_en": "Flower Basket Pattern",
+    "category": "吉祥器物纹",
+    "summary": "花篮纹常盛放花卉果实，富有生活美学气息。",
+    "meaning": "富足、祝福、生活美满",
+    "visual_keywords": [
+      "花篮",
+      "牡丹",
+      "石榴",
+      "彩色"
+    ],
+    "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/080_花篮纹/080_花篮纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/080_花篮纹/080_花篮纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/080_花篮纹/080_花篮纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "71e59bdfbaa1c857d35af56a11154641477b03a3e3d11b55665aeb185622cdbc",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "081",
+    "name_cn": "八宝纹",
+    "name_en": "Eight Treasures Pattern",
+    "category": "吉祥器物纹",
+    "summary": "八宝纹由多种吉祥器物组合而成，常见于瓷器和织物。",
+    "meaning": "吉祥、护佑、圆满",
+    "visual_keywords": [
+      "八件宝物",
+      "环形排列"
+    ],
+    "batch": "第09批_081-090_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/081_八宝纹/081_八宝纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/081_八宝纹/081_八宝纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/081_八宝纹/081_八宝纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "59719aa36bde30674fd85028bf7e740f22856b615b5711dc68fc91e980b94552",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "082",
+    "name_cn": "暗八仙纹",
+    "name_en": "Hidden Eight Immortals Pattern",
+    "category": "吉祥器物纹",
+    "summary": "暗八仙纹以八仙所持器物代指人物，常用于祝寿与吉祥装饰。",
+    "meaning": "祝寿、祥瑞、仙意",
+    "visual_keywords": [
+      "扇",
+      "剑",
+      "葫芦",
+      "花篮等器物"
+    ],
+    "batch": "第09批_081-090_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/082_暗八仙纹/082_暗八仙纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/082_暗八仙纹/082_暗八仙纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/082_暗八仙纹/082_暗八仙纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "d336cc1169a59530275a42420fa6569b9b42c58117e45cd8056eb7ba9151c097",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "083",
+    "name_cn": "灵芝纹",
+    "name_en": "Lingzhi Pattern",
+    "category": "吉祥器物纹",
+    "summary": "灵芝纹形态柔曲，常与云纹组合成祥瑞图案。",
+    "meaning": "长寿、祥瑞、仙草意象",
+    "visual_keywords": [
+      "灵芝",
+      "祥云",
+      "卷曲菌盖"
+    ],
+    "batch": "第09批_081-090_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/083_灵芝纹/083_灵芝纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/083_灵芝纹/083_灵芝纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/083_灵芝纹/083_灵芝纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "24b6be9d747057090754a6f892bfb11bb2e02d5c82e3e9ca3854df1237bc9873",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "084",
+    "name_cn": "珊瑚纹",
+    "name_en": "Coral Pattern",
+    "category": "吉祥器物纹",
+    "summary": "珊瑚纹多见于珍宝组合图案，色彩鲜明。",
+    "meaning": "富贵、珍稀、祥瑞",
+    "visual_keywords": [
+      "红珊瑚枝",
+      "宝石",
+      "海波"
+    ],
+    "batch": "第09批_081-090_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/084_珊瑚纹/084_珊瑚纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/084_珊瑚纹/084_珊瑚纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/084_珊瑚纹/084_珊瑚纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "85e1359973995b4a5bf1e592cf3cfaf8f6484b0650c427b6e340055a9542e2f2",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "085",
+    "name_cn": "书卷纹",
+    "name_en": "Scroll Pattern",
+    "category": "吉祥器物纹",
+    "summary": "书卷纹常与文运、学识、雅趣相关，适合文房主题。",
+    "meaning": "学识、文运、雅趣",
+    "visual_keywords": [
+      "卷轴",
+      "书册",
+      "云纹"
+    ],
+    "batch": "第09批_081-090_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/085_书卷纹/085_书卷纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/085_书卷纹/085_书卷纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/085_书卷纹/085_书卷纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "6ac10a9c650e118ad51ca6a10a3545081230c3d033a15e68a5023fb1f333f849",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "086",
+    "name_cn": "灯笼纹",
+    "name_en": "Lantern Pattern",
+    "category": "吉祥器物纹",
+    "summary": "灯笼纹富有节庆气息，常用于喜庆主题装饰。",
+    "meaning": "团圆、光明、喜庆",
+    "visual_keywords": [
+      "宫灯",
+      "流苏",
+      "红金配色"
+    ],
+    "batch": "第09批_081-090_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/086_灯笼纹/086_灯笼纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/086_灯笼纹/086_灯笼纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/086_灯笼纹/086_灯笼纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "5a8e167618b14e5c7fd8b0e55179821c37f5cf1362ac3bfe32be43cdf86f0374",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "087",
+    "name_cn": "香炉纹",
+    "name_en": "Incense Burner Pattern",
+    "category": "吉祥器物纹",
+    "summary": "香炉纹具有礼仪、清供与文人空间气质。",
+    "meaning": "清雅、礼仪、安定",
+    "visual_keywords": [
+      "香炉",
+      "烟云",
+      "铜器感"
+    ],
+    "batch": "第09批_081-090_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/087_香炉纹/087_香炉纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/087_香炉纹/087_香炉纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/087_香炉纹/087_香炉纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "406ac7429e3c2f1c656042f8238e0d5b5068cff3791a2d5489e225aba58e6bfb",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "088",
+    "name_cn": "玉璧纹",
+    "name_en": "Jade Bi Pattern",
+    "category": "吉祥器物纹",
+    "summary": "玉璧纹以圆形玉器为灵感，适合简洁庄重的图案设计。",
+    "meaning": "圆满、礼仪、天圆意象",
+    "visual_keywords": [
+      "圆璧",
+      "玉质纹理",
+      "中心孔"
+    ],
+    "batch": "第09批_081-090_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/088_玉璧纹/088_玉璧纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/088_玉璧纹/088_玉璧纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/088_玉璧纹/088_玉璧纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "14930def7e3e9465af4d5c161b0785d4d258ddc3168a2300235e31dee500f6e3",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "089",
+    "name_cn": "扇面纹",
+    "name_en": "Fan Pattern",
+    "category": "吉祥器物纹",
+    "summary": "扇面纹结合折扇形态与花鸟装饰，具有文雅气质。",
+    "meaning": "清雅、生活美学、风雅",
+    "visual_keywords": [
+      "折扇",
+      "花鸟",
+      "扇骨"
+    ],
+    "batch": "第09批_081-090_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/089_扇面纹/089_扇面纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/089_扇面纹/089_扇面纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/089_扇面纹/089_扇面纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "2c2fd540ef9d07b27e6e4133db85a2e144e46b0b095a94a779414d1f82b51cc3",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "090",
+    "name_cn": "编磬纹",
+    "name_en": "Chime Stone Pattern",
+    "category": "吉祥器物纹",
+    "summary": "编磬纹取自古代礼乐器形，适合表现礼乐文明。",
+    "meaning": "礼乐、典雅、秩序",
+    "visual_keywords": [
+      "磬形",
+      "悬挂",
+      "青铜金石感"
+    ],
+    "batch": "第09批_081-090_吉祥器物纹",
+    "card_image": "patterns/076-090_吉祥器物纹/090_编磬纹/090_编磬纹_卡片图.png",
+    "detail_page": "patterns/076-090_吉祥器物纹/090_编磬纹/090_编磬纹_详情页.md",
+    "meta_json": "patterns/076-090_吉祥器物纹/090_编磬纹/090_编磬纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "ce12146cb601b9466c7ae5e60453613f75161cbd41b536b6979b8fe580a494b5",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "091",
+    "name_cn": "寿字纹",
+    "name_en": "Longevity Character Pattern",
+    "category": "文字福寿与组合纹",
+    "summary": "寿字纹以“寿”字变体构成装饰，常见于祝寿器物与织绣。",
+    "meaning": "长寿安康、福泽绵长",
+    "visual_keywords": [
+      "篆体寿字",
+      "圆形团寿",
+      "边饰"
+    ],
+    "batch": "第10批_091-100_文字福寿与组合纹",
+    "card_image": "patterns/091-100_文字福寿与组合纹/091_寿字纹/091_寿字纹_卡片图.png",
+    "detail_page": "patterns/091-100_文字福寿与组合纹/091_寿字纹/091_寿字纹_详情页.md",
+    "meta_json": "patterns/091-100_文字福寿与组合纹/091_寿字纹/091_寿字纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "139927a957017cb63b19fe27418ecd04a5de8e639c896c78528702363a08d9e2",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "092",
+    "name_cn": "团寿纹",
+    "name_en": "Round Longevity Pattern",
+    "category": "文字福寿与组合纹",
+    "summary": "团寿纹将寿字置于圆形构图中，结构完整。",
+    "meaning": "圆满长寿、安康",
+    "visual_keywords": [
+      "圆形寿字",
+      "云纹环绕"
+    ],
+    "batch": "第10批_091-100_文字福寿与组合纹",
+    "card_image": "patterns/091-100_文字福寿与组合纹/092_团寿纹/092_团寿纹_卡片图.png",
+    "detail_page": "patterns/091-100_文字福寿与组合纹/092_团寿纹/092_团寿纹_详情页.md",
+    "meta_json": "patterns/091-100_文字福寿与组合纹/092_团寿纹/092_团寿纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "22cc1b5a0fda7b52366432a6000d17a06d6a74eed50aa5010dfb3cfe4d2d6010",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "093",
+    "name_cn": "福字纹",
+    "name_en": "Fortune Character Pattern",
+    "category": "文字福寿与组合纹",
+    "summary": "福字纹以“福”字装饰化展开，常用于年节与家宅装饰。",
+    "meaning": "幸福、福气、家宅安宁",
+    "visual_keywords": [
+      "篆体福字",
+      "祥云",
+      "朱砂"
+    ],
+    "batch": "第10批_091-100_文字福寿与组合纹",
+    "card_image": "patterns/091-100_文字福寿与组合纹/093_福字纹/093_福字纹_卡片图.png",
+    "detail_page": "patterns/091-100_文字福寿与组合纹/093_福字纹/093_福字纹_详情页.md",
+    "meta_json": "patterns/091-100_文字福寿与组合纹/093_福字纹/093_福字纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "be54c028cfc5e8994af8d7cbbec39adac25e18d442b4c2b2e7894a515112a6cb",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "094",
+    "name_cn": "喜字纹",
+    "name_en": "Double Happiness Pattern",
+    "category": "文字福寿与组合纹",
+    "summary": "喜字纹常用于婚庆和喜事场景，视觉识别度高。",
+    "meaning": "成双成对、喜庆圆满",
+    "visual_keywords": [
+      "双喜字",
+      "花卉",
+      "红金配色"
+    ],
+    "batch": "第10批_091-100_文字福寿与组合纹",
+    "card_image": "patterns/091-100_文字福寿与组合纹/094_喜字纹/094_喜字纹_卡片图.png",
+    "detail_page": "patterns/091-100_文字福寿与组合纹/094_喜字纹/094_喜字纹_详情页.md",
+    "meta_json": "patterns/091-100_文字福寿与组合纹/094_喜字纹/094_喜字纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "f225f0e7c7269bc14566b424ed313311c62823c0660270bd3989d1570ce0f076",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "095",
+    "name_cn": "福寿纹",
+    "name_en": "Fortune and Longevity Pattern",
+    "category": "文字福寿与组合纹",
+    "summary": "福寿纹将福、寿或蝙蝠、寿桃等元素组合。",
+    "meaning": "福寿双全、圆满安康",
+    "visual_keywords": [
+      "蝙蝠",
+      "寿桃",
+      "寿字",
+      "云纹"
+    ],
+    "batch": "第10批_091-100_文字福寿与组合纹",
+    "card_image": "patterns/091-100_文字福寿与组合纹/095_福寿纹/095_福寿纹_卡片图.png",
+    "detail_page": "patterns/091-100_文字福寿与组合纹/095_福寿纹/095_福寿纹_详情页.md",
+    "meta_json": "patterns/091-100_文字福寿与组合纹/095_福寿纹/095_福寿纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "e75460d73241e01f088ab92bf430d1d13670058801c6c0ad37dfe99cbba7a297",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "096",
+    "name_cn": "五福捧寿纹",
+    "name_en": "Five Bats Around Longevity Pattern",
+    "category": "文字福寿与组合纹",
+    "summary": "五只蝙蝠围绕寿字，是经典吉祥组合纹。",
+    "meaning": "五福临门、长寿圆满",
+    "visual_keywords": [
+      "五蝠",
+      "团寿",
+      "圆形对称"
+    ],
+    "batch": "第10批_091-100_文字福寿与组合纹",
+    "card_image": "patterns/091-100_文字福寿与组合纹/096_五福捧寿纹/096_五福捧寿纹_卡片图.png",
+    "detail_page": "patterns/091-100_文字福寿与组合纹/096_五福捧寿纹/096_五福捧寿纹_详情页.md",
+    "meta_json": "patterns/091-100_文字福寿与组合纹/096_五福捧寿纹/096_五福捧寿纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "5aafd711d4ad8f1e776dd0d8c5619fca9c702b39970337d0ca62bbe0e91789a5",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "097",
+    "name_cn": "双鱼莲花纹",
+    "name_en": "Twin Fish and Lotus Pattern",
+    "category": "文字福寿与组合纹",
+    "summary": "双鱼与莲花组合，常见于民俗和器物装饰。",
+    "meaning": "富足、和美、清净",
+    "visual_keywords": [
+      "双鱼",
+      "莲花",
+      "水波",
+      "圆形"
+    ],
+    "batch": "第10批_091-100_文字福寿与组合纹",
+    "card_image": "patterns/091-100_文字福寿与组合纹/097_双鱼莲花纹/097_双鱼莲花纹_卡片图.png",
+    "detail_page": "patterns/091-100_文字福寿与组合纹/097_双鱼莲花纹/097_双鱼莲花纹_详情页.md",
+    "meta_json": "patterns/091-100_文字福寿与组合纹/097_双鱼莲花纹/097_双鱼莲花纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "cc9211e2ba1adbcb76e4bb691f3177958ed887f986f44cea301ee793f5c7e5a9",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "098",
+    "name_cn": "鹿鹤同春纹",
+    "name_en": "Deer and Crane Spring Pattern",
+    "category": "文字福寿与组合纹",
+    "summary": "鹿、鹤、松树组合，常用于祝寿和祥瑞主题。",
+    "meaning": "长寿、祥瑞、春和景明",
+    "visual_keywords": [
+      "鹿",
+      "鹤",
+      "松树",
+      "祥云"
+    ],
+    "batch": "第10批_091-100_文字福寿与组合纹",
+    "card_image": "patterns/091-100_文字福寿与组合纹/098_鹿鹤同春纹/098_鹿鹤同春纹_卡片图.png",
+    "detail_page": "patterns/091-100_文字福寿与组合纹/098_鹿鹤同春纹/098_鹿鹤同春纹_详情页.md",
+    "meta_json": "patterns/091-100_文字福寿与组合纹/098_鹿鹤同春纹/098_鹿鹤同春纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "7e2b5ec27d771a657f4fbb8e7c436764e521b5bda767f102c5fca81a7ab0e331",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "099",
+    "name_cn": "岁寒三友纹",
+    "name_en": "Three Friends of Winter Pattern",
+    "category": "文字福寿与组合纹",
+    "summary": "松、竹、梅并称岁寒三友，极具文人审美。",
+    "meaning": "坚贞、高洁、君子品格",
+    "visual_keywords": [
+      "松竹梅组合",
+      "文人画风"
+    ],
+    "batch": "第10批_091-100_文字福寿与组合纹",
+    "card_image": "patterns/091-100_文字福寿与组合纹/099_岁寒三友纹/099_岁寒三友纹_卡片图.png",
+    "detail_page": "patterns/091-100_文字福寿与组合纹/099_岁寒三友纹/099_岁寒三友纹_详情页.md",
+    "meta_json": "patterns/091-100_文字福寿与组合纹/099_岁寒三友纹/099_岁寒三友纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "737535a549eb3ef6cff69304c4daac31ff98c969828d8cec50f9ed81cfe40cd6",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  },
+  {
+    "id": "100",
+    "name_cn": "方圆合璧纹",
+    "name_en": "Square and Circle Harmony Pattern",
+    "category": "文字福寿与组合纹",
+    "summary": "方与圆组合体现秩序、圆融与和谐，适合现代新中式抽象纹样。",
+    "meaning": "和谐、平衡、圆融",
+    "visual_keywords": [
+      "外圆内方",
+      "几何平衡",
+      "金青配色"
+    ],
+    "batch": "第10批_091-100_文字福寿与组合纹",
+    "card_image": "patterns/091-100_文字福寿与组合纹/100_方圆合璧纹/100_方圆合璧纹_卡片图.png",
+    "detail_page": "patterns/091-100_文字福寿与组合纹/100_方圆合璧纹/100_方圆合璧纹_详情页.md",
+    "meta_json": "patterns/091-100_文字福寿与组合纹/100_方圆合璧纹/100_方圆合璧纹_meta.json",
+    "image_size": "1086x1448",
+    "image_sha256": "d7681a70ecadb16ac89415d8b46d4ea17cf27cca180ff2c89be8d7a5139eea40",
+    "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+  }
+]

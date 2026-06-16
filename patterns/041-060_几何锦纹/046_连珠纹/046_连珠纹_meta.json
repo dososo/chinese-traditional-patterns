@@ -1,0 +1,20 @@
+{
+  "id": "046",
+  "name_cn": "连珠纹",
+  "name_en": "Beaded Pattern",
+  "category": "几何锦纹",
+  "summary": "连珠纹由连续圆点组成，常用于边饰和器物分隔线。",
+  "meaning": "华丽、秩序、连贯",
+  "visual_keywords": [
+    "连续圆珠",
+    "边框",
+    "金色点线"
+  ],
+  "batch": "第05批_041-050_几何锦纹",
+  "card_image": "patterns/041-060_几何锦纹/046_连珠纹/046_连珠纹_卡片图.png",
+  "detail_page": "patterns/041-060_几何锦纹/046_连珠纹/046_连珠纹_详情页.md",
+  "meta_json": "patterns/041-060_几何锦纹/046_连珠纹/046_连珠纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "067be08953cf8b7a6b6d9a1c55826dd29b956aaeb888c185a630ddc83bdf4826",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

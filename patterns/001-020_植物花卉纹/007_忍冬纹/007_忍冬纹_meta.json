@@ -1,0 +1,20 @@
+{
+  "id": "007",
+  "name_cn": "忍冬纹",
+  "name_en": "Honeysuckle Pattern",
+  "category": "植物花卉纹",
+  "summary": "忍冬纹枝叶翻卷灵动，常用于石刻、壁画和器物装饰。",
+  "meaning": "生命延续、坚韧、繁盛",
+  "visual_keywords": [
+    "忍冬叶",
+    "翻卷叶片",
+    "古典石刻感"
+  ],
+  "batch": "第01批_001-010_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/007_忍冬纹/007_忍冬纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/007_忍冬纹/007_忍冬纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/007_忍冬纹/007_忍冬纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "d3001e1a9fecb2491ffe8f3006017b4508467d40c31b4b9e970d8b3a58a798a1",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

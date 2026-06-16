@@ -1,0 +1,20 @@
+{
+  "id": "019",
+  "name_cn": "折枝花纹",
+  "name_en": "Broken-Branch Floral Pattern",
+  "category": "植物花卉纹",
+  "summary": "折枝花以单枝花卉入纹，构图灵活，常见于瓷器、织物与装饰画。",
+  "meaning": "雅致、自然、灵动",
+  "visual_keywords": [
+    "单枝花",
+    "花叶组合",
+    "留白"
+  ],
+  "batch": "第02批_011-020_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/019_折枝花纹/019_折枝花纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/019_折枝花纹/019_折枝花纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/019_折枝花纹/019_折枝花纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "281fb1bee18dcee0332a988ca21113e523da5952104219ea9ae6cb0f7c4de0dd",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

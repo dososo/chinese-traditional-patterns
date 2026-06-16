@@ -1,0 +1,20 @@
+{
+  "id": "011",
+  "name_cn": "兰草纹",
+  "name_en": "Orchid Pattern",
+  "category": "植物花卉纹",
+  "summary": "兰草纹清秀舒展，常表现幽雅、品格与文人气息。",
+  "meaning": "清雅、品格、君子气",
+  "visual_keywords": [
+    "兰叶舒展",
+    "细线条",
+    "淡墨青绿"
+  ],
+  "batch": "第02批_011-020_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/011_兰草纹/011_兰草纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/011_兰草纹/011_兰草纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/011_兰草纹/011_兰草纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "6a1d18a2ac65f00c9e0836e4efbe8edb6125cf446bf827afa474582c53129dd4",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

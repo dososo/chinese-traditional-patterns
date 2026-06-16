@@ -1,0 +1,21 @@
+{
+  "id": "021",
+  "name_cn": "龙纹",
+  "name_en": "Dragon Pattern",
+  "category": "动物瑞兽纹",
+  "summary": "龙纹是中国传统纹样中的核心祥瑞题材，常见于服饰、器物和建筑装饰。",
+  "meaning": "威仪、力量、尊贵、雨水",
+  "visual_keywords": [
+    "游龙",
+    "祥云",
+    "鳞片",
+    "金青配色"
+  ],
+  "batch": "第03批_021-030_动物瑞兽纹",
+  "card_image": "patterns/021-040_动物瑞兽纹/021_龙纹/021_龙纹_卡片图.png",
+  "detail_page": "patterns/021-040_动物瑞兽纹/021_龙纹/021_龙纹_详情页.md",
+  "meta_json": "patterns/021-040_动物瑞兽纹/021_龙纹/021_龙纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "f1636491ba0853895469406bb02457e0dedf00ba06c44a61307f10cf1828737d",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

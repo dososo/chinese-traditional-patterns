@@ -1,0 +1,19 @@
+{
+  "id": "063",
+  "name_cn": "卷云纹",
+  "name_en": "Rolling Cloud Pattern",
+  "category": "云水山石纹",
+  "summary": "卷云纹线条盘旋流动，常见于器物、服饰和壁画装饰。",
+  "meaning": "灵动、仙意、升腾",
+  "visual_keywords": [
+    "大小卷云",
+    "流动节奏"
+  ],
+  "batch": "第07批_061-070_云水山石纹",
+  "card_image": "patterns/061-075_云水山石纹/063_卷云纹/063_卷云纹_卡片图.png",
+  "detail_page": "patterns/061-075_云水山石纹/063_卷云纹/063_卷云纹_详情页.md",
+  "meta_json": "patterns/061-075_云水山石纹/063_卷云纹/063_卷云纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "0f610a0ff9c0533570ae24ea27c326bea3cf32aa046b24f30474852cf1237fe0",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

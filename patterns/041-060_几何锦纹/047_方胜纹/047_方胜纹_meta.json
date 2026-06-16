@@ -1,0 +1,20 @@
+{
+  "id": "047",
+  "name_cn": "方胜纹",
+  "name_en": "Double-Diamond Pattern",
+  "category": "几何锦纹",
+  "summary": "方胜纹由相连菱形构成，常有同心、相合与吉祥意味。",
+  "meaning": "同心、相合、吉祥",
+  "visual_keywords": [
+    "双菱形",
+    "交叠结构",
+    "锦纹质感"
+  ],
+  "batch": "第05批_041-050_几何锦纹",
+  "card_image": "patterns/041-060_几何锦纹/047_方胜纹/047_方胜纹_卡片图.png",
+  "detail_page": "patterns/041-060_几何锦纹/047_方胜纹/047_方胜纹_详情页.md",
+  "meta_json": "patterns/041-060_几何锦纹/047_方胜纹/047_方胜纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "a648261a6cedffbe9b146030043fd75dab8bda511f753138470bc97494c39a06",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

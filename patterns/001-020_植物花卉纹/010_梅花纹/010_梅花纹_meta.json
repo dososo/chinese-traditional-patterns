@@ -1,0 +1,21 @@
+{
+  "id": "010",
+  "name_cn": "梅花纹",
+  "name_en": "Plum Blossom Pattern",
+  "category": "植物花卉纹",
+  "summary": "梅花凌寒开放，是传统纹样中极具文人气质的花卉主题。",
+  "meaning": "坚韧、高洁、春信",
+  "visual_keywords": [
+    "五瓣梅花",
+    "枝干",
+    "留白",
+    "墨色"
+  ],
+  "batch": "第01批_001-010_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/010_梅花纹/010_梅花纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/010_梅花纹/010_梅花纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/010_梅花纹/010_梅花纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "dd9d8ab5b1a996e411dafed8cb4ff52421a361876ce2f8f9409b8f4eb6a419f9",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

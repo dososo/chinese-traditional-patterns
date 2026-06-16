@@ -1,0 +1,20 @@
+{
+  "id": "087",
+  "name_cn": "香炉纹",
+  "name_en": "Incense Burner Pattern",
+  "category": "吉祥器物纹",
+  "summary": "香炉纹具有礼仪、清供与文人空间气质。",
+  "meaning": "清雅、礼仪、安定",
+  "visual_keywords": [
+    "香炉",
+    "烟云",
+    "铜器感"
+  ],
+  "batch": "第09批_081-090_吉祥器物纹",
+  "card_image": "patterns/076-090_吉祥器物纹/087_香炉纹/087_香炉纹_卡片图.png",
+  "detail_page": "patterns/076-090_吉祥器物纹/087_香炉纹/087_香炉纹_详情页.md",
+  "meta_json": "patterns/076-090_吉祥器物纹/087_香炉纹/087_香炉纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "406ac7429e3c2f1c656042f8238e0d5b5068cff3791a2d5489e225aba58e6bfb",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

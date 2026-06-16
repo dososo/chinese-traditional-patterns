@@ -1,0 +1,20 @@
+{
+  "id": "002",
+  "name_cn": "宝相花纹",
+  "name_en": "Baoxiang Floral Pattern",
+  "category": "植物花卉纹",
+  "summary": "融合莲花、牡丹等花形的理想化花卉纹样，形态饱满华丽。",
+  "meaning": "庄严、富贵、圆满",
+  "visual_keywords": [
+    "对称团花",
+    "层叠花瓣",
+    "鎏金边线"
+  ],
+  "batch": "第01批_001-010_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/002_宝相花纹/002_宝相花纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/002_宝相花纹/002_宝相花纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/002_宝相花纹/002_宝相花纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "813408e02e62dc2597bc042c2d9d61e87466d15834cac226d702c747591e4daa",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

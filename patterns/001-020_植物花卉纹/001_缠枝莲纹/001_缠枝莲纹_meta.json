@@ -1,0 +1,21 @@
+{
+  "id": "001",
+  "name_cn": "缠枝莲纹",
+  "name_en": "Interlocking Lotus Scroll Pattern",
+  "category": "植物花卉纹",
+  "summary": "以莲花与卷曲藤蔓连续展开，常见于瓷器、织锦与建筑装饰。",
+  "meaning": "清雅、连绵、生生不息",
+  "visual_keywords": [
+    "莲花",
+    "卷草",
+    "连续藤蔓",
+    "青绿白描"
+  ],
+  "batch": "第01批_001-010_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/001_缠枝莲纹/001_缠枝莲纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/001_缠枝莲纹/001_缠枝莲纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/001_缠枝莲纹/001_缠枝莲纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "4984244a6dfaf52b4e970232bb865825866b5d50eae167e721735d89fcabfa6f",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

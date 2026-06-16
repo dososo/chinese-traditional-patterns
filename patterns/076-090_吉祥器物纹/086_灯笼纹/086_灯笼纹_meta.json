@@ -1,0 +1,20 @@
+{
+  "id": "086",
+  "name_cn": "灯笼纹",
+  "name_en": "Lantern Pattern",
+  "category": "吉祥器物纹",
+  "summary": "灯笼纹富有节庆气息，常用于喜庆主题装饰。",
+  "meaning": "团圆、光明、喜庆",
+  "visual_keywords": [
+    "宫灯",
+    "流苏",
+    "红金配色"
+  ],
+  "batch": "第09批_081-090_吉祥器物纹",
+  "card_image": "patterns/076-090_吉祥器物纹/086_灯笼纹/086_灯笼纹_卡片图.png",
+  "detail_page": "patterns/076-090_吉祥器物纹/086_灯笼纹/086_灯笼纹_详情页.md",
+  "meta_json": "patterns/076-090_吉祥器物纹/086_灯笼纹/086_灯笼纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "5a8e167618b14e5c7fd8b0e55179821c37f5cf1362ac3bfe32be43cdf86f0374",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

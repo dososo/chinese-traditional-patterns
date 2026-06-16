@@ -1,0 +1,20 @@
+{
+  "id": "008",
+  "name_cn": "唐草纹",
+  "name_en": "Tang Scroll Pattern",
+  "category": "植物花卉纹",
+  "summary": "以蔓草连续缠绕为特征，结构自由华丽，适合背景与边饰设计。",
+  "meaning": "繁盛、流动、华丽",
+  "visual_keywords": [
+    "蔓草",
+    "花叶交织",
+    "唐风装饰"
+  ],
+  "batch": "第01批_001-010_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/008_唐草纹/008_唐草纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/008_唐草纹/008_唐草纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/008_唐草纹/008_唐草纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "6111ffc7147f54d08e6579122e0c396cbe90e43e19dcd92e2b441b2c95b681d4",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

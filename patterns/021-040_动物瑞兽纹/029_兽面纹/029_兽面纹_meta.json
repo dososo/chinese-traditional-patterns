@@ -1,0 +1,20 @@
+{
+  "id": "029",
+  "name_cn": "兽面纹",
+  "name_en": "Animal Mask Pattern",
+  "category": "动物瑞兽纹",
+  "summary": "兽面纹以抽象动物面部为主体，风格庄重、神秘、古朴。",
+  "meaning": "守护、威严、古意",
+  "visual_keywords": [
+    "正面对称兽面",
+    "目纹",
+    "角纹"
+  ],
+  "batch": "第03批_021-030_动物瑞兽纹",
+  "card_image": "patterns/021-040_动物瑞兽纹/029_兽面纹/029_兽面纹_卡片图.png",
+  "detail_page": "patterns/021-040_动物瑞兽纹/029_兽面纹/029_兽面纹_详情页.md",
+  "meta_json": "patterns/021-040_动物瑞兽纹/029_兽面纹/029_兽面纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "59c95876aec3a1cd89dff1a56af5be8932d68ae50622dc447c5114ce1b92ae19",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

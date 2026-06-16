@@ -1,0 +1,20 @@
+{
+  "id": "038",
+  "name_cn": "龟纹",
+  "name_en": "Turtle Pattern",
+  "category": "动物瑞兽纹",
+  "summary": "龟在传统文化中常与长寿、稳固相关。",
+  "meaning": "长寿、稳固、安宁",
+  "visual_keywords": [
+    "龟形",
+    "龟甲",
+    "几何纹"
+  ],
+  "batch": "第04批_031-040_动物瑞兽纹",
+  "card_image": "patterns/021-040_动物瑞兽纹/038_龟纹/038_龟纹_卡片图.png",
+  "detail_page": "patterns/021-040_动物瑞兽纹/038_龟纹/038_龟纹_详情页.md",
+  "meta_json": "patterns/021-040_动物瑞兽纹/038_龟纹/038_龟纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "0a3337f4db1f41dfdbc47edc5d0767d4a6654d005aeb2051972bd617055eb1d7",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

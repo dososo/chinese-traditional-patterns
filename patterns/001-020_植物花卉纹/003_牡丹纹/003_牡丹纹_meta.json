@@ -1,0 +1,20 @@
+{
+  "id": "003",
+  "name_cn": "牡丹纹",
+  "name_en": "Peony Pattern",
+  "category": "植物花卉纹",
+  "summary": "牡丹被视为富贵之花，常用于瓷器、织绣、漆器与家具装饰。",
+  "meaning": "富贵、繁荣、华美",
+  "visual_keywords": [
+    "盛开牡丹",
+    "卷叶",
+    "朱砂粉绿"
+  ],
+  "batch": "第01批_001-010_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/003_牡丹纹/003_牡丹纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/003_牡丹纹/003_牡丹纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/003_牡丹纹/003_牡丹纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "688ea05afe40acb075a5d74c3f2dfccd8d09c87fce2e0806600d8fef337f82ee",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

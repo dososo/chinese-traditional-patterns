@@ -1,0 +1,20 @@
+{
+  "id": "004",
+  "name_cn": "菊花纹",
+  "name_en": "Chrysanthemum Pattern",
+  "category": "植物花卉纹",
+  "summary": "菊花纹线条舒展，常见于器物、织物和文人审美图案中。",
+  "meaning": "高洁、长寿、清雅",
+  "visual_keywords": [
+    "重瓣菊花",
+    "圆形构图",
+    "淡黄墨线"
+  ],
+  "batch": "第01批_001-010_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/004_菊花纹/004_菊花纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/004_菊花纹/004_菊花纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/004_菊花纹/004_菊花纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "5a29ecace0214e45cd1a694e19fdba2f3c4af7a99ac9dfa4293e5cda9fad3683",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

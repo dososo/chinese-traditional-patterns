@@ -1,0 +1,20 @@
+{
+  "id": "006",
+  "name_cn": "卷草纹",
+  "name_en": "Scroll Grass Pattern",
+  "category": "植物花卉纹",
+  "summary": "以卷曲草叶连续延展，常作为边饰或填充纹样。",
+  "meaning": "生命力、延展、装饰韵律",
+  "visual_keywords": [
+    "藤草卷曲",
+    "连续边饰",
+    "墨绿线条"
+  ],
+  "batch": "第01批_001-010_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/006_卷草纹/006_卷草纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/006_卷草纹/006_卷草纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/006_卷草纹/006_卷草纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "eb709d544e706e3fa9473d058432e80fc18c61ac8608079f544af0dfb3131e83",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

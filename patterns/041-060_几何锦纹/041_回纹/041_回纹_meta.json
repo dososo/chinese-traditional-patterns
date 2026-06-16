@@ -1,0 +1,20 @@
+{
+  "id": "041",
+  "name_cn": "回纹",
+  "name_en": "Key Fret Pattern",
+  "category": "几何锦纹",
+  "summary": "回纹由连续折线构成，结构规整，适合边框和底纹。",
+  "meaning": "循环往复、生生不息",
+  "visual_keywords": [
+    "方形折线",
+    "连续边框",
+    "黑绿配色"
+  ],
+  "batch": "第05批_041-050_几何锦纹",
+  "card_image": "patterns/041-060_几何锦纹/041_回纹/041_回纹_卡片图.png",
+  "detail_page": "patterns/041-060_几何锦纹/041_回纹/041_回纹_详情页.md",
+  "meta_json": "patterns/041-060_几何锦纹/041_回纹/041_回纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "3b520d77307f21e70dc4276455bb3803c21e0aea91ebebc1af93e072674ff078",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

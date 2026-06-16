@@ -1,0 +1,20 @@
+{
+  "id": "073",
+  "name_cn": "涡纹",
+  "name_en": "Spiral Pattern",
+  "category": "云水山石纹",
+  "summary": "涡纹由旋转线条构成，可表现水流、云气或古代器物气息。",
+  "meaning": "旋转、流转、神秘",
+  "visual_keywords": [
+    "螺旋",
+    "重复",
+    "古朴"
+  ],
+  "batch": "第08批_071-080_云水山石纹_吉祥器物纹",
+  "card_image": "patterns/061-075_云水山石纹/073_涡纹/073_涡纹_卡片图.png",
+  "detail_page": "patterns/061-075_云水山石纹/073_涡纹/073_涡纹_详情页.md",
+  "meta_json": "patterns/061-075_云水山石纹/073_涡纹/073_涡纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "2a90a983298e108a2487e32fdda8503cfcbe6a04847cc729ab18b361ab322be4",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "018",
+  "name_cn": "葫芦藤纹",
+  "name_en": "Gourd Vine Pattern",
+  "category": "植物花卉纹",
+  "summary": "葫芦藤纹常用于吉祥主题装饰，形态亲切而富有民俗感。",
+  "meaning": "福禄、绵延、护佑",
+  "visual_keywords": [
+    "葫芦",
+    "藤蔓",
+    "卷须",
+    "连续纹"
+  ],
+  "batch": "第02批_011-020_植物花卉纹",
+  "card_image": "patterns/001-020_植物花卉纹/018_葫芦藤纹/018_葫芦藤纹_卡片图.png",
+  "detail_page": "patterns/001-020_植物花卉纹/018_葫芦藤纹/018_葫芦藤纹_详情页.md",
+  "meta_json": "patterns/001-020_植物花卉纹/018_葫芦藤纹/018_葫芦藤纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "0efb728a4c8397f78cc8ece0986fa115554cff4601e7403e292f0d3130bf4818",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}

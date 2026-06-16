@@ -1,0 +1,20 @@
+{
+  "id": "035",
+  "name_cn": "鸳鸯纹",
+  "name_en": "Mandarin Duck Pattern",
+  "category": "动物瑞兽纹",
+  "summary": "鸳鸯纹常用于婚庆、织绣与爱情主题装饰。",
+  "meaning": "夫妻和美、成双成对",
+  "visual_keywords": [
+    "一对鸳鸯",
+    "莲叶",
+    "水纹"
+  ],
+  "batch": "第04批_031-040_动物瑞兽纹",
+  "card_image": "patterns/021-040_动物瑞兽纹/035_鸳鸯纹/035_鸳鸯纹_卡片图.png",
+  "detail_page": "patterns/021-040_动物瑞兽纹/035_鸳鸯纹/035_鸳鸯纹_详情页.md",
+  "meta_json": "patterns/021-040_动物瑞兽纹/035_鸳鸯纹/035_鸳鸯纹_meta.json",
+  "image_size": "1086x1448",
+  "image_sha256": "50eb61820f5a6616791d84041f6f1a8eaa95c81ed4949033ba71b1489cfa5bd2",
+  "source_note": "原创生成与再设计，不直接复制具体文物图案。"
+}
